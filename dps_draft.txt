@@ -1,0 +1,29 @@
+=====DF Democratic Procedures=====
+====Elections====
+For single-occupancy roles we use the AV system, as set out here:
+===Candidacy===
+Nominations are to be open up to the point of opening the voting. Additionally, a virtual candidate, RON (standing for Re-Open Nominations) will compete in all elections.
+===Voting procedure===
+All voters eligible and willing to take part in the election will write down their order of preference for the candidates (including RON) on their ballot paper. Each candidate must have a specific place in the ordering of the preferences, and if any candidates are omitted, it is assumed that the voter has no further preference within the omitted candidates.
+===Counting procedure===
+The facilitator of the meeting will call for volunteers to be tellers. Once the election is closed, the tellers will determine the winner of the election in the following way:
+ - All the ballot papers are sorted by first expressed preference, spoilt ballots being discarded.
+ - The candidate with the least number of votes is eliminated, and their ballots are redistributed based on their next preference. This step is repeated until one candidate has more than 50% of the votes.
+ - If a ballot paper has no next preference to redistribute to, it is discarded.
+
+====Althing====
+We use a motions system of decision-making. Each motion is an idea or a proposal to change something about DFs. Additionally, we have a system of Musings, which are open-ended questions for discussion.
+===Motions===
+Any DF may propose a motion to be discussed at Althing by notifying the Secretary of the Movement. The Secretary must accept motions sent by email to secretary@spanthatworld.com, and may also accept motions sent to them by other means at their discretion. Motions must be seconded, and may include a rationale if the proposer wishes.
+==Amendments==
+Any DF may propose an amendment to a motion, which will be discussed and voted on before discussing the motion itself. Amendments will require a simple majority of votes cast to pass.
+==Discussion==
+The order of discussion of motions at Althing is determined by the Secretary.
+Each motion begins with a discussion following guidelines in the A-Z of Good Discussion (available on SpanThatWorld); the Chair of DF Committee initially facilitates the discussion but may waive facilitation to anybody at any time. The discussion will be concluded when appropriate by the facilitator and a vote will be taken.
+==Voting==
+Voting on motions will be carried out by a show of hands. Those voting may choose to cast a vote for or against the motion, or to abstain. 
+For a motion to pass, a simple majority of votes cast must be for the motion. (That is to say, there must be more votes for than votes against. Abstentions don't count.)
+
+The exception to this is for motions which modify the Constitution or the Democratic Procedures Document (this document). A motion modifying either of these documents requires a 2/3rds majority of votes cast for the motion. (That is to say, there must be more than twice the number of votes for the motion as against it.)
+===Minutes===
+The Secretary will record the text of motions, amendments and rationales in the minutes of Althing. They will also record whether an amendment or motion passed or not, and the numbers of votes for and against, and the number of abstentions.
