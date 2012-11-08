@@ -18,6 +18,12 @@
 
 \renewcommand{\thechapter}{\Alph{chapter}}
 
+% Use these for outputting to plain text (via catdvi)
+% Use `catdvi -e 1 -U df_constitution.dvi | sed -re "s/\[U\+2022\]/*/g" | sed -re "s/([^^[:space:]])\s+/\1 /g"`
+%\usepackage[none]{hyphenat}
+%\pagenumbering{gobble}
+%\raggedright
+
 \begin{document}
 
 \begin{titlepage}
