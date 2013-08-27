@@ -167,6 +167,7 @@ Roles you can be nominated for are:
 * Workers' Beer
 * Two General Council Reps
 
+Nominations so far received (but not necessarily accepted) are:
 
 * Anna Rathbone for International Opportunities
 * Ryan Hilson for Lay Member
