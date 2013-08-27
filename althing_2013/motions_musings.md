@@ -188,4 +188,5 @@ Nominations so far received (but not necessarily accepted) are:
 * Will Searby for Training
 * Lily Bowler for Events
 * Hannah Hardy for Midlands
+* Naomi Wilkins for First-Aid
 
