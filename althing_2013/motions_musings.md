@@ -89,25 +89,25 @@ Fairer fare reform
 Nominations
 -----------
 
-Anna Rathbone for International Opportunities
-Ryan Hilson for Lay Member
-Ryan Hilson for SW Rep (which?)
-Joe Flanagan for Projects
-Rosie Pearce for MEST-UP
-Alice Griggs for MEST-UP
-Hufi Neibig for Zine Editor
-Moni Wright for Secretary
-Ruth O'Sullivan for Secretary
-Adi Childs for Workers' Beer
-Zoë Fidler for Shadow Treasurer
-Nicky Fresh for Shandow Treasurer
-Emily Pentreath for Events
-Saskia Neibig for Campaigns
-Naomi Wilkins for Training
-Imogen Smith for Events
-Lily MacTaggart as Venturer Committee Liaison
-Sophie Holden for Midlands
-Will Searby for Training
-Lily Bowler for Events
-Hannah Hardy for Midlands
+* Anna Rathbone for International Opportunities
+* Ryan Hilson for Lay Member
+* Ryan Hilson for SW Rep (which?)
+* Joe Flanagan for Projects
+* Rosie Pearce for MEST-UP
+* Alice Griggs for MEST-UP
+* Hufi Neibig for Zine Editor
+* Moni Wright for Secretary
+* Ruth O'Sullivan for Secretary
+* Adi Childs for Workers' Beer
+* Zoë Fidler for Shadow Treasurer
+* Nicky Fresh for Shandow Treasurer
+* Emily Pentreath for Events
+* Saskia Neibig for Campaigns
+* Naomi Wilkins for Training
+* Imogen Smith for Events
+* Lily MacTaggart as Venturer Committee Liaison
+* Sophie Holden for Midlands
+* Will Searby for Training
+* Lily Bowler for Events
+* Hannah Hardy for Midlands
 
