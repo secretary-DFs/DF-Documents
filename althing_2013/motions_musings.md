@@ -139,15 +139,42 @@ Fairer fare reform
 Nominations
 -----------
 
+Roles you can be nominated for are:
+
+* South West Area Network (SWAN)
+* Oxford-Swindon-Gloucester (OSG)
+* London
+* South East
+* Midlands
+* Wales
+* North West
+* North East
+* Scotland
+* International Opportunities
+* Projects
+* Treasurer (Must have been a previous Shadow Treasurer)
+* Shadow Treasurer
+* Fundraising
+* Events
+* Odd-Year Lay Member
+* Even-Year Lay Member (Note: This is a by-election, the person will only fill the role for one year.)
+* Webfairy
+* Zine Editor
+* First-Aid
+* MEST-UP
+* Share Co-ordinator
+* Venturer Committee Liaison
+* Workers' Beer
+* Two General Council Reps
+
+
 * Anna Rathbone for International Opportunities
 * Ryan Hilson for Lay Member
-* Ryan Hilson for SW Rep (which?)
+* Ryan Hilson for SWAN
 * Joe Flanagan for Projects
 * Rosie Pearce for MEST-UP
 * Alice Griggs for MEST-UP
 * Hufi Neibig for Zine Editor
-* Moni Wright for Secretary
-* Ruth O'Sullivan for Secretary
 * Adi Childs for Workers' Beer
 * Zoë Fidler for Shadow Treasurer
 * Nicky Fresh for Shandow Treasurer
