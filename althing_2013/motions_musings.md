@@ -1,6 +1,13 @@
 Motions, Musings and Nominations for Althing 2013
 =================================================
 
+Foreword
+--------
+
+To clarify to anybody reading this, this document is a draft and a work in progress. The deadline for motion and musing submission is the 1st of September, which is when the preliminary agenda will be published. If you spot something that doesn't make sense, is left out, or otherwise needs correcting, please email <secretary@spanthisworld.com>.
+
+The motions listed are in no particular order, not the order that they will be in in the final agenda.
+
 Motions
 -------
 
@@ -39,13 +46,48 @@ between Vctte and RC.
 
 ### Motion E ###
 
-Safe spaces on camps for women & trans* folk
+Safe spaces on camps for women & trans* folk.
 
 (Kitty Howse)
 
 ### Motion F ###
 
-(Chair role motion tabled from last year)
+[Note, this motion was left on the table from Althing 2012, and as such some of the wording may need to be changed, e.g. "this year" means "the year 2011-2012".]
+
+This Althing recognises that the role of Chair of DF Committee is a large one that cannot be properly completed by a Committee member already holding another role. From this Althing onwards it shall become a primary role, albeit still a one-year role. Those who wish to stand for the role shall be approved by Althing. Any of the people standing who come above RON in an Althing election shall be passed onto Committee. At Althing, in the closed Committee meeting, a new Chair of DF Committee shall be elected from those who were approved by the rest of the Movement. The constitution shall be amended accordingly.
+
+Rationale: This year I (Louise Delmege) have been unable to fully fulfil all that I wished to as both comms and chair. I have found it impossible to keep the website up to date whilst still facilitating ctte, safeguarding DFs and acting as a laymember for those ctte members that neglect their roles at important times.
+
+DF Camp is an example of this, whereby I was unable to keep the website updated every other day whilst acting as support for the DF Camp coordinating team during the time when the events rep and two of the coordinators were busy. This meant that many essential tasks went undone, this caused many, some severe, problems at the event. Coordinators and Ctte members should report when they will be busy and find laymembers to support them, when this and other responsibilities are ignored, it is up to the Chair to step in.
+When Committee members fail in their responsibilities it is the Chair's responsibility to take over their roles. This is not possible while the Chair has another role. Making the Chair of DF Committee a primary role will ensure that, in future, this can be avoided. It will also allow more time for the Chair to check up on Committee members and support them before it gets to the point where vital parts of their role go undone.
+
+The complex election procedure ensures that, since the Chair of DF Committee is a member of DF Committee and carries all the responsibilities of a ctte member, they are approved by the Movement, from the floor of Althing. But, the choice of chair is still made by the upcoming DF Committee after discussion with the current Committee (Changeover being Old/New). Since the Chair of DF Committee is the facilitator of ctte is is vital that it is they who choose them. This will also give the role of Chair the same changeover time as all other roles.
+
+(Louise Delmege, seconded by Ruori MacIntyre)
+
+### Motion G ###
+
+This DF Althing accepts the document entitled 'DF Democratic Procedures', dated [insert date here], as an official guide to how business should be undertaken at business events (including Althings, Things, and mini-Things). Relevant sections of the constitution will be modified to refer to this document.
+
+(Joe MacMahon)
+
+### Motion H (Dissolution of Regional Council) ###
+
+This DF Althing calls for the dissolution of Regional Council and the creation of a Districts rep on DF Committee in place of the Chair of Regional Council.
+
+Rationale: The DF Movement works successfully on a UK-wide and a district level. We do not work at the level of regions and nations within the UK. There have been no successful regional/national events in recent years, bar the Welsh valentines Hostel, but, Wales being comprised of 3 districts, this should truly be considered a district level event. A Districts rep would be responsible for encouraging and supporting similar district events and projects.
+
+None of the members of Regional Council have fulfilled their mandated role for the last few years. Some members have worked towards their roles but found it impossible to coordinate DFs at a regional/national level. A single Districts rep could do the mandated work of supporting the creation of new districts more successfully as they would be easier to contact and could collect more experience.
+
+We struggle to fill all the places on Regional Council and have been unable to do so in recent years. There is not enough enthusiasm for this council to work. A single Districts Rep would be more effective. They could do more than is currently done by all Regional Council members.
+
+The existence of Regional Council may actually be preventing others from running events. Being told that it is an elected role to do so can be off putting to people without said role. Also, unused Committee places at Things can currently be used by Regional Council members; this is of little to no benefit to DFs. These places could instead go to valuable volunteers doing short, or long term projects.
+
+RC members have a vote at AG. This vote is rarely, if at all, used by the member, it is most often taken by another DF of that region/nation. There is no reason this cannot continue without having to first track down the often hard to contact RC member and first ask them if they will use the vote.
+
+Regional Council do not help the DF Movement. Dissolving Regional Council will allow us to fund active volunteers to Things. A Districts rep to Committee will increase DFs district level support more cheaply, and effectively. 
+
+(Louise Delmege)
 
 Musings
 -------
