@@ -65,7 +65,7 @@ The complex election procedure ensures that, since the Chair of DF Committee is 
 
 (Louise Delmege, seconded by Ruori MacIntyre)
 
-### Motion G ###
+### Motion G (Democratic Procedures) ###
 
 This DF Althing accepts the document entitled 'DF Democratic Procedures', dated [insert date here], as an official guide to how business should be undertaken at business events (including Althings, Things, and mini-Things). Relevant sections of the constitution will be modified to refer to this document.
 
@@ -88,6 +88,14 @@ RC members have a vote at AG. This vote is rarely, if at all, used by the member
 Regional Council do not help the DF Movement. Dissolving Regional Council will allow us to fund active volunteers to Things. A Districts rep to Committee will increase DFs district level support more cheaply, and effectively. 
 
 (Louise Delmege)
+
+### Motion I (DF Library System Funding) ###
+
+This DF Althing approves the PFA submitted for the DF Library.
+
+Rationale: The PFA gives money to a member of DF Committee to develop a piece of software to manage the DF Library, and as such it cannot be approved by DF Committee itself. Hence a good option would be to have it approved by Althing.
+
+(Joe MacMahon)
 
 Musings
 -------
