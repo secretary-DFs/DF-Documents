@@ -145,6 +145,7 @@ Roles you can be nominated for are:
 * Oxford-Swindon-Gloucester (OSG)
 * London
 * South East
+* Eastern
 * Midlands
 * Wales
 * North West
@@ -178,7 +179,7 @@ Nominations so far received (but not necessarily accepted) are:
 * Hufi Neibig for Zine Editor
 * Adi Childs for Workers' Beer
 * Zoë Fidler for Shadow Treasurer
-* Nicky Fresh for Shandow Treasurer
+* Nick FitzGerald for Shandow Treasurer
 * Emily Pentreath for Events
 * Saskia Neibig for Campaigns
 * Naomi Wilkins for Training
@@ -189,4 +190,5 @@ Nominations so far received (but not necessarily accepted) are:
 * Lily Bowler for Events
 * Hannah Hardy for Midlands
 * Naomi Wilkins for First-Aid
+* Issy Rose for MEST-UP
 
