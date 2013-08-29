@@ -97,6 +97,36 @@ Rationale: The PFA gives money to a member of DF Committee to develop a piece of
 
 (Joe MacMahon)
 
+### Motion J (Support for Syria) ###
+
+In light of the current situation in Syria, this DF Althing voices its opposition to British military intervention.  It also instructs the International Opportunities Representative to build ties with organisations similar to ours within Syria so that we can offer what help we are able to.
+
+This Althing also instructs the Treasurer to make a donation from our reserves of £500 to the International Committee of the Red Cross, and £500 to the International Federation of Red Cross and Red Crescent Societies.  Financial help is not the only help these organisations require, and as such this DF Althing encourages DFs to volunteer if they feel able.
+
+Rationale: Woodcraft is an organisation which supports and advocates for peace and co-operation over war and violence.  We voiced our opposition to the war in Iraq in 2003 and we should voice our opposition now.  Intervention in Syria will only make things worse: as we have seen with Iraq and Afghanistan, countries built on western intervention lack stability and extremism flourishes.  Intervention is a short term solution to a problem which needs to be resolved by the Syrian people.  Moreover, many rebel factions within Syria are against intervention for these same reasons.
+
+We should also recognise, however, that in the current political and economic system, we as individuals and collectively as an organisation are powerless to influence the leaders of this country, and should therefore try and mitigate the disaster which is eventually coming.  We should give as much help as we can to those people -- the Syrian people -- who really need it.  Tangentially, we should also be on guard in future for propagandised claims by our own government that there is no money to sustain public services, when we know that money wasted on needless wars and sustaining an imperialist military presence could be spent supporting the people of this country who are in need.
+
+(Joe MacMahon)
+
+### Motion K (Remove Fundraising Rep) ###
+
+This Althing 
+
+### Motion L ###
+
+This Althing instructs that non committee members of DFs who are organising or coordinating national DF projects/events should be expensed to Things on a case by case basis to more formally discuss their plans. 
+
+Rationale: It would be useful and positive to expense active DFs who are organising and coordinating things/projects/events to attend Things. (I have the early stages of The Share in mind, it would have been useful to have Sam Sender who had a lot of big ideas and plans to be able to attend Things and discuss those ideas formally. Other examples of when this could have been useful for the movement include when I (Imogen Smith) was coordinating the 'Travelling DF centre' for CoCamp or the Welsh Valentines hostel weekend event . I am absolutely sure that there will be plenty more similar examples of DFs organising things off their own back to come in the future.) This morion would allow committee and the DF movement to more effectively discuss what is actually being organised and planned on a national level within the DF movement rather than just what is happening within committee. This motion used alongside the existing Project Fund Application grant would also give active DFs the recognition and support they deserve to run and coordinate exciting national projects and events. It would also promote participation in national DFs and empower DFs to make their ideas happen regardless of whether or not they hold a committee role. Things would be made more relevant, effective and inclusive.
+
+(Imogen Smith)
+
+### Motion M ###
+
+This Althing appreciates the value of the work done by volunteers who are not elected or are elected to non-ctte roles and encourages DF Committee to invite volunteers to be expensed to Things in cases where that would be of significant benefit to their work.
+
+(Saskia Neibig)
+
 Musings
 -------
 
@@ -136,6 +166,45 @@ Fairer fare reform
 
 (Gabriel Hawkins-Pottier)
 
+### Musing Eta ###
+
+1. Over the past 5 years TREE has encouraged and promoted youth participation across Woodcraft by providing: training; mentoring; resources; case studies and stories; improving communication online, between districts and between age groups, as well as championing youth participation in WcF democracy at all levels. What's more, young people have been involved in all of this from outset to outcome! The project ends in April 2014, but after so much work, the success should not stop there. A new volunteer role has been proposed to continue this work and keep youth participation levels high: the Youth Participation Ambassador. Two TREE members of staff ran a workshop at DF Camp about what the role should involve and what support should be available. They have written up a job role and person specification for prospective Ambassadors and will be running a training weekend 4-6th October.
+
+2. Job role / Person spec
+
+3. As a Movement which prides ourselves on our democratic nature, and encourages members (and non-members) to get involved at all levels with issues which affect them, DFs should do all we can to support both the scheme as a whole, and individual ambassadors.
+There are three main areas for discussion:
+    1. Is the job description/person spec suitable?
+        1. Is it clear?
+        2. Is it accessible?
+        3. Is it flexible enough to be used across Woodcraft, by volunteers of any age, gender, nationality etc.
+    2. How can DFs support the whole scheme?
+        1. Training?
+        2. Promotion?
+        3. Consultancy?
+    3. How can DFs support individual Ambassadors?
+        1. Mentoring?
+        2. Case studies?
+        3. Span That World posts?
+        4. Be active on “Young Leaders” Facebook page – asking / answering questions
+4. Not every YPA will have the time, ability or resources to continue all the activities TREE has been carrying out. Can Althing help to prioritise the activities in the list attached and discuss how DFs could support Ambassadors who choose to carry them out.
+
+(Josh Hope-Collins)
+
+### Musing Theta ###
+
+Drinking is an important part of British culture. How do we make sure we are including people who like a good drink to continue coming to our events?
+
+(Joe Bowler)
+
+### Musing Iota ###
+
+There has been a lot of discussion about the accessibility of DFs (within wider WCF) recently. Personally I think that we're a reasonable bunch and can and will be very accomodating to any who have different needs. I think a lot of the talk about inacessibility comes from a lack of knowledge about the DF movement. Maybe we could start sending out fliers for DF events to venturer groups and districts nationall in an effort to get more venturers to make the transition to national DF events?
+Many DFs do not have district DF groups but are involved in local groups in other ways (leading etc) so we could maybe send things out to districts as a whole?
+Thoughts?
+
+(Toby Attrill)
+
 Nominations
 -----------
 
@@ -171,7 +240,7 @@ Roles you can be nominated for are:
 Nominations so far received (but not necessarily accepted) are:
 
 * Anna Rathbone for International Opportunities
-* Ryan Hilson for Lay Member
+* Ryan Hilson for Lay Member (which?)
 * Ryan Hilson for SWAN
 * Joe Flanagan for Projects
 * Rosie Pearce for MEST-UP
@@ -179,7 +248,7 @@ Nominations so far received (but not necessarily accepted) are:
 * Hufi Neibig for Zine Editor
 * Adi Childs for Workers' Beer
 * Zoë Fidler for Shadow Treasurer
-* Nick FitzGerald for Shandow Treasurer
+* Nick FitzGerald for Shadow Treasurer
 * Emily Pentreath for Events
 * Saskia Neibig for Campaigns
 * Naomi Wilkins for Training
@@ -189,6 +258,13 @@ Nominations so far received (but not necessarily accepted) are:
 * Will Searby for Training
 * Lily Bowler for Events
 * Hannah Hardy for Midlands
-* Naomi Wilkins for First-Aid
+* Naomi Wilkins for First Aid
 * Issy Rose for MEST-UP
+* Angus Wood for First Aid
+* Jack Yeo for Lay Member (which?)
+* Lily Bowler for Events
+* Ellie Mestel for Treasurer
+* Gabriel Hawkins-Pottier for Projects
+* David Moore for Webfairy
+* Ruth O'Sullivan for Districts Rep (if Regional Council is Dissolved)
 
