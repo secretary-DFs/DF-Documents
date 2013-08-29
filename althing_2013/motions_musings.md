@@ -265,12 +265,37 @@ Roles you can be nominated for are:
 * Even-Year Lay Member (Note: This is a by-election, the person will only fill the role for one year.)
 * Webfairy
 * Zine Editor
-* First-Aid
+* First Aid
 * MEST-UP
 * Share Co-ordinator
 * Venturer Committee Liaison
 * Workers' Beer
 * Two General Council Reps
+
+Elections currently with nobody standing:
+
+* Oxford-Swindon-Gloucester
+* London
+* South East
+* Eastern
+* Wales
+* North West
+* North East
+* Scotland
+* Fundraising
+* Share Co-ordinator
+* GC Reps
+
+Elections currently with only one person standing per position (note these are not automatically elected as we may elect RON):
+
+* South-West Area Network
+* Midlands
+* International Opportunities
+* Treasurer (note: only one person is electable to Treasurer this year)
+* Lay Members
+* Zine Editor
+* Venturer Committee Liaison
+* Workers' Beer
 
 Nominations so far received (but not necessarily accepted) are:
 
@@ -302,4 +327,5 @@ Nominations so far received (but not necessarily accepted) are:
 * Gabriel Hawkins-Pottier for Projects
 * David Moore for Webfairy
 * Ruth O'Sullivan for Districts Rep (if Regional Council is Dissolved)
+* Luke Breadmore for Webfairy
 
