@@ -51,6 +51,7 @@ When it is a turn of a particular motion to be discussed, the chair will call fo
 If a discussion concludes naturally, or appears to be going round in circles with no fresh ideas, or needs to end because of time constraints, the chair may take several more points and then move to a vote.
 
 \subsection{Voting}
+\label{sec:motionvoting}
 Participants may cast a vote for a motion, or against it, or they may abstain from voting.  Voting on motions is not usually done in secret, however the discussion as a whole may decide (by consensus or otherwise) to hold the vote in secret.  For motions which do not alter the Constitution to pass, a simple majority is required, i.e. 50\% + 1 vote.  Motions which do alter the Constitution require a 2/3rds majority vote to pass, i.e. 2/3rds + 1 vote.  When counting totals of votes cast, abstentions do not count, and quorum applies only to those votes cast.
 
 \subsection{Amendments}
@@ -64,6 +65,7 @@ The format for discussing and voting on amendments is the same as for motions, w
 \end{itemize}
 
 \subsection{Conflicting Motions/Amendments}
+\label{sec:conflicting}
 Where two or more motions or amendments conflict, i.e. negate one another fully or in part, the meeting will decide by AV or Run-off Voting which of the possible alternatives they prefer, and subsequently whether to pass it at all.  For example, if there are three motions, A, B, and C, which negate each other, the participants might decide to prefer motion B over the others.  Then the other motions (A and C) are dropped, and the remaining motion is discussed in the normal way.
 
 \section{Musings}
@@ -79,7 +81,7 @@ At each Althing, the Secretary shall propose a motion which causes each policy-m
 Althing is advised that the criteria for letting a motion lapse should be that it is no longer relevant or current practice.  It should be noted that if a lapsing motion should be amended in some way, it is best to let it lapse and re-propose an amended version of it.
 
 \section{Elections and Roles}
-Where the election for a particular role is held depends on the motion which created the role, however, most elections take place at Althing.  In all elections, a virtual candidate called `RON' (standing for Re-Open Nominations) shall be electable.  In most cases, if RON is elected, a request for further nominations of candidates is put out, and the election is postponed until the next available business event.  The exception to this, as detailed in Section \autoref{const.sec:treasurernoconfidence} of the Constitution, is the role of Treasurer.
+Where the election for a particular role is held depends on the motion which created the role, however, most elections take place at Althing.  In all elections, a virtual candidate called `RON' (standing for Re-Open Nominations) shall be electable.  In most cases, if RON is elected, a request for further nominations of candidates is put out, and the election is postponed until the next available business event.  The exception to this, as detailed in section \autoref{const.sec:treasurernoconfidence} of the Constitution, is the role of Treasurer.
 
 \subsection{Nominations}
 Before an election is held, nominations for candidates may be made to the Secretary.  The Secretary will establish if each nomination is accepted by its nominee, and if so their name will be included in the final list of candidates.
@@ -92,11 +94,30 @@ At the beginning of the election, the Secretary will close nominations and invit
 All elections to single roles on DF Committee and Regional Council shall take place by AV.  Elections where there are multiple positions available to the same pool of candidates will take place by STV.  This includes, for example, the special case where one Lay Member stands down mid-term, and therefore both Lay Members are elected in the same year.
 
 \section{Voting Practicalities}
+Voting is usually required to pass a motion, and to elect a candidate.  As detailed in \autoref{sec:motionvoting}, voting on motions is usually done by a simple show of hands for votes for, votes against and abstentions.  However, elections for roles and certain special cases for motions (conflicting motions or amendments, see \autoref{sec:conflicting}) use voting systems that require some explanation.
+
+\subsection{Secret Ballots}
+Elections are usually held in secret, with votes expressed written down anonymously on ballot papers.  These votes are then collected and counted in public, and the result announced to the electorate.  When voting on motions is held in secret, a similar process may be used, or possibly for convenience, members of the discussion may be asked to close their eyes and vote normally with hands.
+
 \subsection{Tellers}
-\subsection{Secret and non-secret ballots}
-\subsection{Voting systems}
+This of course raises the question of who does the counting.  These people are known as \emph{tellers} and are chosen by consensus from a discussion.  It is their job to make sure voting is carried out and votes are counted correctly.  To make sure tellers are (relatively) neutral, they must surrender their right to vote in the election they are administering.
+
+\subsection{Voting Systems}
+The type of voting system used in an election will depend on the details of the election.  Usually, AV is used for elections with one position available, STV for elections with multiple positions and Run-off Voting used as an alternative to AV, when AV would be too time consuming.
+
 \subsubsection{Alternative Vote (AV)}
 \label{sec:av}
+Under the Alternative Vote system, a single candidate is elected from a pool of candidates.  Each voter expresses a ranked list of preferences on their ballot paper, in the order in which they would prefer those candidates to win.  Then, once collected, the following process is used to establish a winner of the election:
+
+\begin{enumerate}
+\item Votes are counted based on first preferences, discarding spoilt votes.
+\item \label{item:candidatemajority} If a candidate has a 50\% + 1 majority, they are elected.
+\item Otherwise, the candidate with the least votes is eliminated, and their votes are redistributed based on the next preference.
+\item Return to step \ref{item:candidatemajority}.
+\item If there is a tie, the election is held again with only those two candidates eligible for votes.
+\item If there is still a tie, a coin-toss may decide the vote, or the two tied candidates may agree to share the position in some way.
+\end{enumerate}
+
 \subsubsection{Run-off Voting}
 \subsubsection{Single Transferrable Vote (STV)}
 
