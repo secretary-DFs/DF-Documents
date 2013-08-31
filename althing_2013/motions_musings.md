@@ -131,6 +131,17 @@ It would be useful and positive to expense active DFs who are organising and coo
 
 (Imogen Smith)
 
+#### Amendment ####
+
+[Note: If this motion falls, then this amendment is to be proposed for the following motion too.]
+
+Three expensed places to Things shall be created on top of the Ctte places and Two event coordinator places. These roles are for volunteers not in a specific, expensed role, who are taking part in a short or long term project of value to the Movement, e.g. a local event or part of the campaign. Applications can be made for these places to DF committee before the event. No application form is needed, only an email to the Chair of DF Committee explaining why the Movement would benefit from giving them a place.
+
+##### Rationale #####
+Ctte members often don't know until quite late whether or not they can come to a Thing. If they can't, Regional Council have first priority for places. This means applying for their unused places is difficult. Having three certain places from the start will make this process much easier.
+
+(Louise Delmege)
+
 ### Motion L ###
 
 This Althing appreciates the value of the work done by volunteers who are not elected or are elected to non-ctte roles and encourages DF Committee to invite volunteers to be expensed to Things in cases where that would be of significant benefit to their work.
@@ -154,6 +165,18 @@ heavily administrative task is also increased when they are directly
 involved in the outcome.
 
 (Saskia Neibig)
+
+#### Amendment ####
+
+Append "The Constitution will be amended accordingly."
+
+(Joe Bowler)
+
+### Motion N ###
+
+DF events should not be budgeted to create surplus unless they are fundraising events, also any surplus made through going under budget on a DF event should be used to reduce the costs of future events, to increase participation. This excludes the five pounds for fairer fare.
+
+(Adam Fidler)
 
 Musings
 -------
@@ -240,6 +263,14 @@ how do make the most of non-traditional platforms for education?
 
 (Saskia Neibig)
 
+### Musing Lambda ###
+
+DFs aim to support our members who suffer from illnesses, including mental illnesses. Currently our constitution lists "mental incapacity" as grounds for a vote of no confidence for a Committee member, however, for several successive Committees this has been ignored in favour of supporting members, even if they cannot competently fulfil their role. 
+
+Should we remove this section from the constitution and reaffirm our intention to support Committee members suffering illnesses, in-spite of the reduced work they can do for the Movement? Or, should we leave it in and reaffirm it's usage when, sadly, someone's illness prevents them from fulfilling their role?
+
+(Louise Delmege)
+
 Nominations
 -----------
 
@@ -290,10 +321,8 @@ Elections currently with only one person standing per position (note these are n
 
 * South-West Area Network
 * Midlands
-* International Opportunities
 * Treasurer (note: only one person is electable to Treasurer this year)
 * Lay Members
-* Zine Editor
 * Venturer Committee Liaison
 * Workers' Beer
 
@@ -326,6 +355,8 @@ Nominations so far received (but not necessarily accepted) are:
 * Ellie Mestel for Treasurer
 * Gabriel Hawkins-Pottier for Projects
 * David Moore for Webfairy
-* Ruth O'Sullivan for Districts Rep (if Regional Council is Dissolved)
+* Ruth O'Sullivan for Districts Rep (if Regional Council is dissolved)
 * Luke Breadmore for Webfairy
+* Leia Kennedy for International Opportunities
+* Alec Mezzetti for Zine Editor
 
