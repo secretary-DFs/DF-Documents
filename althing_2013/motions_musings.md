@@ -178,6 +178,16 @@ DF events should not be budgeted to create surplus unless they are fundraising e
 
 (Adam Fidler)
 
+### Motion O ###
+
+This Althing creates the role of Shadow MEST-UP Co-ordinator.  This shall be a non-committee role, and last for one year, like the role of MEST-UP Co-ordinator itself.  This Althing also mandates that only previous Shadow MEST-UP Co-ordinators may stand for the role of MEST-UP Co-ordinator.
+
+#### Rationale ####
+
+MEST-UP is a vital part of our organisation and, as such, the running of it is a very important job. Issy is currently doing this job brilliantly, but I am aware that the handover was not as smooth as it could have been, and a lot of information that was available to previous MEST-UP coordinators has had to be found from scratch, as well as plans for workshops and for training the MEST-UP team. As such, I feel that it is important that there be a shadow MEST-UP coordinator, both so that they can learn about how to properly fulfil this role and so that information can be retained during the transition between MEST-UP coordinators to help MEST-UP become an even better project/programme than it already is.
+
+(Naomi Wilkins)
+
 Musings
 -------
 
