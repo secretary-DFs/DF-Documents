@@ -352,7 +352,7 @@ There are three main areas for discussion:
     2. How can DFs support the whole scheme?
         1. Training?
         2. Promotion?
-        3. Consultancy?
+        3. Advice?
     3. How can DFs support individual Ambassadors?
         1. Mentoring?
         2. Case studies?
