@@ -17,7 +17,7 @@ This DF Althing accepts the document entitled 'DF Democratic Procedures', dated 
 
 (Joe MacMahon)
 
-### Motion 2 ###
+### Motion 2 (Dissolving Fundraising Rep) ###
 
 This Althing dissolves the role of Fundraising Rep and proposes a training session on fundraising take place at Old/New so that all ctte reps are familiar with the basics.
 
@@ -41,7 +41,7 @@ Append "The Constitution will be amended accordingly."
 
 (Joe Bowler)
 
-### Motion 3 ###
+### Motion 3 (Chair of Committee) ###
 
 [Note, this motion was left on the table from Althing 2012, and as such some of the wording may need to be changed, e.g. "this year" means "the year 2011-2012".]
 
@@ -58,7 +58,7 @@ The complex election procedure ensures that, since the Chair of DF Committee is 
 
 (Louise Delmege, seconded by Ruori MacIntyre)
 
-### Motion 4 ###
+### Motion 4 (Shadow MEST-UP) ###
 
 This Althing creates the role of Shadow MEST-UP Co-ordinator.  This shall be a non-committee role, and last for one year, like the role of MEST-UP Co-ordinator itself.  This Althing also mandates that only previous Shadow MEST-UP Co-ordinators may stand for the role of MEST-UP Co-ordinator.
 
@@ -68,7 +68,7 @@ MEST-UP is a vital part of our organisation and, as such, the running of it is a
 
 (Naomi Wilkins)
 
-### Motion 5 ###
+### Motion 5 (Venturer Committee Donation) ###
 
 DFs to give £500 to Venturer Committee to help it become sustainable
 (regions are being asked for this amount as well, it won't just be us
@@ -96,7 +96,7 @@ Regional Council do not help the DF Movement. Dissolving Regional Council will a
 
 (Louise Delmege)
 
-### Motion 7 ###
+### Motion 7 (Supporting Regional Council) ###
 
 DFs to give £3000 to Regional council so they can meet three times a
 year and plan Things and things better and become more useful again.
@@ -127,7 +127,7 @@ We should also recognise, however, that in the current political and economic sy
 
 (Joe MacMahon)
 
-### Motion 10 ###
+### Motion 10 (Non-Committee Expenses 1) ###
 
 This Althing instructs that non committee members of DFs who are organising or coordinating national DF projects/events should be expensed to Things on a case by case basis to more formally discuss their plans. 
 
@@ -148,13 +148,13 @@ Ctte members often don't know until quite late whether or not they can come to a
 
 (Louise Delmege)
 
-### Motion 11 ###
+### Motion 11 (Non-Committee Expenses 2) ###
 
 This Althing appreciates the value of the work done by volunteers who are not elected or are elected to non-ctte roles and encourages DF Committee to invite volunteers to be expensed to Things in cases where that would be of significant benefit to their work.
 
 (Saskia Neibig)
 
-### Motion 12 ###
+### Motion 12 (No Surplus on Events) ###
 
 DF events should not be budgeted to create surplus unless they are fundraising events, also any surplus made through going under budget on a DF event should be used to reduce the costs of future events, to increase participation. This excludes the five pounds for fairer fare.
 
@@ -270,7 +270,7 @@ This DF Althing proposes that people expensed to business events should have to 
 
 (Joe MacMahon)
 
-### Motion 14 ###
+### Motion 14 (Timing of Business) ###
 
 This Althing mandates that all DF business at Things (including
 mini-Things) and Althings will take place between 8am and midnight.
@@ -279,7 +279,7 @@ Additionally, no business should take place over a mealtime.
 
 (Zoë Fidler)
 
-### Motion 15 ###
+### Motion 15 (Safe Spaces for Women and Trans* People) ###
 
 This Althing mandates that every DF social event should have an area set aside to act as a safe space for women and trans* people.
 
@@ -289,7 +289,7 @@ While Woodcraft is a much more welcoming place than most, safe spaces are still 
 
 (Kitty Howse)
 
-### Motion 16 ###
+### Motion 16 (Venturer Committee and Venues) ###
 
 That DF regional council and Venturer Committee should share a venue at
 least once a year as they can build a better bond between venturers and
