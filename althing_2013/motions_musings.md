@@ -103,7 +103,7 @@ year and plan Things and things better and become more useful again.
 
 (Sophe Holden)
 
-### Motion 8 (DF Library System Funding) ###
+### Motion 8 (DF Library Funding) ###
 
 This DF Althing approves the PFA submitted for the DF Library.
 
