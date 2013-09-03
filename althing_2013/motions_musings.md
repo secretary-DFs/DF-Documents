@@ -4,9 +4,7 @@ Motions, Musings and Nominations for Althing 2013
 Foreword
 --------
 
-To clarify to anybody reading this, this document is a draft and a work in progress. The deadline for motion and musing submission is the 1st of September, which is when the preliminary agenda will be published. If you spot something that doesn't make sense, is left out, or otherwise needs correcting, please email <secretary@spanthisworld.com>.
-
-The motions listed are in no particular order, not the order that they will be in in the final agenda.
+The motions listed here are now in the order they will be in on the final agenda.  The deadline for submission has passed, and as such if any new motions or musings are received they will be discussed only if there is sufficient time available.  Nominations for elections may still be received.
 
 Motions
 -------
@@ -430,7 +428,6 @@ Elections currently with nobody standing:
 * South East
 * Eastern
 * Wales
-* North West
 * North East
 * Scotland
 * Fundraising
@@ -441,6 +438,7 @@ Elections currently with only one person standing per position (note these are n
 
 * South-West Area Network
 * Midlands
+* North West
 * Treasurer (note: only one person is electable to Treasurer this year)
 * Lay Members
 * Venturer Committee Liaison
@@ -479,4 +477,5 @@ Nominations so far received (but not necessarily accepted) are:
 * Luke Breadmore for Webfairy
 * Leia Kennedy for International Opportunities
 * Alec Mezzetti for Zine Editor
+* Josie Tothill for North West
 
