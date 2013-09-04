@@ -429,7 +429,6 @@ Elections currently with nobody standing:
 * Eastern
 * Wales
 * North East
-* Scotland
 * Fundraising
 * Share Co-ordinator
 * GC Reps
@@ -439,6 +438,7 @@ Elections currently with only one person standing per position (note these are n
 * South-West Area Network
 * Midlands
 * North West
+* Scotland
 * Treasurer (note: only one person is electable to Treasurer this year)
 * Lay Members
 * Venturer Committee Liaison
@@ -478,4 +478,5 @@ Nominations so far received (but not necessarily accepted) are:
 * Leia Kennedy for International Opportunities
 * Alec Mezzetti for Zine Editor
 * Josie Tothill for North West
+* Holly Purves for Scotland
 
