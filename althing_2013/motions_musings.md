@@ -301,7 +301,7 @@ Musings
 
 ### Musing Alpha ###
 
-DF events could be bore inclusive to those who do not drink or those who feel alienated by drinking. Drinking can be an enjoyable social activity, but it can also be quite exclusive. It can exclude those who are those under the age of 18, those who cannot drink for medical reasons, those who wish to bring their young children to an event, and those who choose not to drink for cultural, religious or personal reasons, among others. Suggestions for discussion: alcohol free events, alcohol free nights on longer events, specific drinking/dry zones, or no alcohol over a certain percentage allowed at events (these are just examples of ideas and not proposals). I just don’t want us to end up like the kinsfolk who have said that they wouldn't come to AG if it were an alcohol free event. A moot point – if an event cannot be enjoyed without alcohol, then could that be an indicator that there is something wrong with the event? 
+Drinking can be an enjoyable social activity, but it can also be quite exclusive. It can exclude those who are those under the age of 18, those who cannot drink for medical reasons, those who wish to bring their young children to an event, and those who choose not to drink for cultural, religious or personal reasons, among others. How can we make DF events more inclusive to those who feel alienated or excluded by, or uncomfortable with the consumption of alcohol?
 
 (Anonymous)
 
