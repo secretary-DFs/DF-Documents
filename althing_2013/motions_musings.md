@@ -11,7 +11,7 @@ Motions
 
 ### Motion 1 (Democratic Procedures) ###
 
-This DF Althing accepts the document entitled 'DF Democratic Procedures', dated [insert date here], as an official guide to how business should be undertaken at business events (including Althings, Things, and mini-Things). Relevant sections of the constitution will be modified to refer to this document.
+This DF Althing accepts the document entitled 'DF Democratic Procedures', dated 5th September 2013, as an official guide to how business should be undertaken at business events (including Althings, Things, and mini-Things). Relevant sections of the constitution will be modified to refer to this document.
 
 (Joe MacMahon)
 
@@ -421,7 +421,7 @@ Roles you can be nominated for are:
 * Workers' Beer
 * Two General Council Reps
 
-Elections currently with nobody standing:
+Elections with nobody standing at the time of print:
 
 * Oxford-Swindon-Gloucester
 * London
@@ -433,7 +433,7 @@ Elections currently with nobody standing:
 * Share Co-ordinator
 * GC Reps
 
-Elections currently with only one person standing per position (note these are not automatically elected as we may elect RON):
+Elections with only one person standing per position at the time of print (note these are not automatically elected as we may elect RON):
 
 * South-West Area Network
 * North West
@@ -443,7 +443,7 @@ Elections currently with only one person standing per position (note these are n
 * Venturer Committee Liaison
 * Workers' Beer
 
-Nominations so far received and accepted are:
+Nominations received and accepted at the time of print are:
 
 * Anna Rathbone for International Opportunities
 * Ryan Hilson for Lay Member (which?)
