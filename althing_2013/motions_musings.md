@@ -319,19 +319,19 @@ At events where there are DJs, a DF with a spotify subscription might be a cheap
 
 ### Musing Delta ###
 
-Including people who want to remain sober.
+How should we include people who want to remain sober?
 
 (Gabriel Hawkins-Pottier)
 
 ### Musing Epsilon ###
 
-Including DFs with children
+How should we include DFs with children?
 
 (Gabriel Hawkins-Pottier)
 
 ### Musing Zeta ###
 
-Fairer fare reform
+Is fairer fare broken, and if so, how can we fix it?
 
 (Gabriel Hawkins-Pottier)
 
@@ -436,7 +436,6 @@ Elections currently with nobody standing:
 Elections currently with only one person standing per position (note these are not automatically elected as we may elect RON):
 
 * South-West Area Network
-* Midlands
 * North West
 * Scotland
 * Treasurer (note: only one person is electable to Treasurer this year)
@@ -444,19 +443,17 @@ Elections currently with only one person standing per position (note these are n
 * Venturer Committee Liaison
 * Workers' Beer
 
-Nominations so far received (but not necessarily accepted) are:
+Nominations so far received and accepted are:
 
 * Anna Rathbone for International Opportunities
 * Ryan Hilson for Lay Member (which?)
 * Ryan Hilson for SWAN
 * Joe Flanagan for Projects
-* Rosie Pearce for MEST-UP
 * Alice Griggs for MEST-UP
 * Hufi Neibig for Zine Editor
 * Adi Childs for Workers' Beer
 * Zoë Fidler for Shadow Treasurer
 * Nick FitzGerald for Shadow Treasurer
-* Emily Pentreath for Events
 * Saskia Neibig for Campaigns
 * Naomi Wilkins for Training
 * Imogen Smith for Events
