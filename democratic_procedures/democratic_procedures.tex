@@ -40,6 +40,20 @@ Additionally, at the beginning of business, the chair will briefly explain the p
 No business may be undertaken without a quorum of members present, as outlined in Section \autoref{const.sec:quorum} of the Constitution.
 
 \subsection{Expenses to Business Events}
+\subsubsection{Things}
+The following people are mandated to come to Things, and may therefore claim travel expenses back from the Treasurer:
+\begin{itemize}
+\item all members of DF Committee
+\item 2 members of the organising team for the next social event
+\item the member of Regional Council for that region
+\end{itemize}
+
+\subsubsection{Althing}
+The following people are mandated to come to Althing, and may similarly claim travel expenses:
+\begin{itemize}
+\item all members of DF Committee
+\item all members of Regional Council
+\end{itemize}
 
 \section{Motions}
 A motion is a specific instruction or statement agreed upon as reflecting the wishes or opinions of the DF Movement at large.  Motions are debated and voted on formally at Althing, and it is the job of the Secretary to prepare and publish an agenda of motions in advance of Althing.  All motions must have a proposer, who submits the motion for debate at Althing. If a motion is agreed upon, it is said to \emph{pass} or \emph{be carried}, and if not, it is said to \emph{fall}.
@@ -61,11 +75,11 @@ Participants may cast a vote for a motion, or against it, or they may abstain fr
 \subsection{Amendments}
 At any time up until voting on a motion, amendments may be submitted (by a DF, DF Committee, or Regional Council) which change an aspect of the motion.  Discussion and voting for amendments always takes place before discussion of the motion, and then the motion is discussed `as amended' or otherwise.
 
-The format for discussing and voting on amendments is the same as for motions, with the following exceptions:
+The format for discussing and voting on amendments is the same as for motions, with the following exceptions.
 \begin{itemize}
-\item You cannot propose an amendment to an amendment
+\item You cannot propose an amendment to an amendment.
 \item The proposer of a motion may choose accept an amendment, in which case the amendment is applied automatically without discussion or a vote.
-\item All amendments not accepted by the proposer of the motion are decided by a simple majority vote
+\item All amendments not accepted by the proposer of the motion are decided by a simple majority vote.
 \end{itemize}
 
 \subsection{Conflicting Motions/Amendments}
@@ -123,9 +137,21 @@ Under the Alternative Vote system, a single candidate is elected from a pool of 
 \end{enumerate}
 
 \subsubsection{Run-off Voting}
-\todo
+This system is functionally equivalent to AV, in that if all voters have the same preferences, the outcome of the election will be the same.  It is generally used when running an AV election would be too time consuming or otherwise impractical.  A disadvantage is that it cannot be run as a secret ballot.
+
+Each candidate is assigned a physical space, e.g. a particular corner of the room, and voters are then asked to move to the space of their preferred candidate.  Then, the candidate with the least number of people in their space is eliminated, and those people are asked to move to the space of their second-most preferred candidate.  The process is repeated, as in AV, until one candidate has a 50\% + 1 majority.
+
 \subsubsection{Single Transferrable Vote (STV)}
-\todo
+Single Transferrable Vote is a system by which candidates are elected to multiple positions achieving proportional representation.  When there is only one position available, it is equivalent to AV.  As in AV, each voter expresses a ranked list of preferences on their ballot paper and the following process is used to decide the winners:
+
+\begin{enumerate}
+\item The quota of votes for a candidate to be elected is decided, usually by the following formula (rounded up)\footnote{This ensures that the percentage of votes held by those elected cannot be less than or equal to the votes held by anybody not elected.} \[\mbox{votes needed to win} = \frac{\mbox{votes cast}}{\mbox{positions to fill}+ 1} \]
+\item Votes are counted based on first preferences, discarding spoilt votes.
+\item \label{item:stvmajority} If a candidate reaches (or surpasses) the quota, they are elected.
+\item Any votes for an already-elected candidate are redistributed to their next preference.\footnote{This minimises votes `wasted' on candidates who have already been elected.}
+\item If all votes have been counted, the candidate with the fewest votes is eliminated and their votes are redistributed based on the next preference.
+\item Return to step \ref{item:stvmajority}.
+\end{enumerate}
 
 \appendix
 
