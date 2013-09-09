@@ -39,6 +39,12 @@ Append "The Constitution will be amended accordingly."
 
 (Joe Bowler)
 
+#### Amendment ####
+
+It's the Training Rep's responsibility to ensure fundraising competencies across the movement.
+
+(Josh Hope-Collins)
+
 ### Motion 3 (Chair of Committee) ###
 
 [Note, this motion was left on the table from Althing 2012, and as such some of the wording may need to be changed, e.g. "this year" means "the year 2011-2012".]
@@ -55,6 +61,20 @@ When Committee members fail in their responsibilities it is the Chair's responsi
 The complex election procedure ensures that, since the Chair of DF Committee is a member of DF Committee and carries all the responsibilities of a ctte member, they are approved by the Movement, from the floor of Althing. But, the choice of chair is still made by the upcoming DF Committee after discussion with the current Committee (Changeover being Old/New). Since the Chair of DF Committee is the facilitator of ctte is is vital that it is they who choose them. This will also give the role of Chair the same changeover time as all other roles.
 
 (Louise Delmege, seconded by Ruori MacIntyre)
+
+#### Amendment ####
+
+The Chair of DF Committee should be chosen by online discussion.
+
+Rationale: To decide at Althing excludes DF Committee members who are not at Althing.  To decide at Old/New would mean expensing all nominees, which would be unrealistic therefore this is the most realistic and inclusive method.
+
+(Zoë Fidler)
+
+#### Amendment ####
+
+The position of Chair would be an exlusive role, i.e. modifying section B.1.4.6 of the constitution for the Chair role specifically.  If a candidate is elected to Chair and another role, they must choose (with input from committee) which role to withdraw from.  The person who came second in the election would then fill whichever role was left unfilled.
+
+(Josh Hope-Collins)
 
 ### Motion 4 (Shadow MEST-UP) ###
 
