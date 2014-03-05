@@ -2,3 +2,9 @@
 .log
 .toc
 .pdf
+.out
+.orig
+.dvi
+.synctex.gz
+~
+.xdv
