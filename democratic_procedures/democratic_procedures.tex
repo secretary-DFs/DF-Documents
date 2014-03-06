@@ -3,21 +3,12 @@
 
 \documentclass[a4paper, 11pt]{article} % use larger type; default would be 10pt
 
-\usepackage[british]{babel}
-\usepackage{fontspec}
-\defaultfontfeatures{Mapping=tex-text}
-\setmainfont[Ligatures=TeX]{Open Sans}
-
-\usepackage[scale=0.85]{geometry}
-\usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
-\usepackage[hidelinks]{hyperref}
+\usepackage{../dfdocs}
 
 \usepackage{xr}
 \externaldocument[const.]{../df_constitution}
 
-\usepackage{graphicx} % support the \includegraphics command and options
-
-\title{DF Democratic Procedures (Draft)}
+\title{DF Democratic Procedures}
 \author{Joe MacMahon (DF Secretary)}
 \date{\today}
 
@@ -35,7 +26,7 @@ In all DF business (for example, at Althing, a Thing, or a mini-Thing), a system
 Additionally, at the beginning of business, the chair will briefly explain the principles and practicalities of this system, in particular the hand signals being used.  The chair may of course also deliver this explanation at later points in the discussion if, for example, new people have joined in or on return from a break.
 
 \subsection{Quoracy}
-No business may be undertaken without a quorum of members present, as outlined in Section \autoref{const.sec:quorum} of the Constitution.
+No business may be undertaken without a quorum of members present, as outlined in Section \ref{const.sec:quorum} of the Constitution.
 
 \subsection{Expenses to Business Events}
 \subsubsection{Things}
@@ -45,7 +36,10 @@ The following people are mandated to come to Things, and may therefore claim tra
 \item 2 members of the organising team for the next social event
 \item the member of Regional Council for that region
 \item Venturer Committee liaison
+\item three volunteers not in a specific, expensed role who are taking part in a project of value to the Movement
 \end{itemize}
+
+The three non-specific volunteer places are to be applied for to DF Committee.
 
 \subsubsection{Althing}
 The following people are mandated to come to Althing, and may similarly claim travel expenses:
@@ -99,7 +93,7 @@ At each Althing, the Secretary shall propose a motion which causes each policy-m
 Althing is advised that the criteria for letting a motion lapse should be that it is no longer relevant or current practice.  It should be noted that if a lapsing motion should be amended in some way, it is best to let it lapse and re-propose an amended version of it.
 
 \section{Elections and Roles}
-Where the election for a particular role is held depends on the motion which created the role, however, most elections take place at Althing.  In all elections, a virtual candidate called `RON' (standing for Re-Open Nominations) shall be electable.  In most cases, if RON is elected, a request for further nominations of candidates is put out, and the election is postponed until the next available business event.  The exception to this, as detailed in section \autoref{const.sec:treasurernoconfidence} of the Constitution, is the role of Treasurer.
+Where the election for a particular role is held depends on the motion which created the role, however, most elections take place at Althing.  In all elections, a virtual candidate called `RON' (standing for Re-Open Nominations) shall be electable.  In most cases, if RON is elected, a request for further nominations of candidates is put out, and the election is postponed until the next available business event.  The exception to this, as detailed in section \ref{const.sec:treasurernoconfidence} of the Constitution, is the role of Treasurer.
 
 \subsection{Nominations}
 Before an election is held, nominations for candidates may be made to the Secretary.  The Secretary will establish if each nomination is accepted by its nominee, and if so their name will be included in the final list of candidates.
@@ -112,7 +106,7 @@ At the beginning of the election, the Secretary will close nominations and invit
 All elections to single roles on DF Committee and Regional Council shall take place by AV.  Elections where there are multiple positions available to the same pool of candidates will take place by STV.  This includes, for example, the special case where one Lay Member stands down mid-term, and therefore both Lay Members are elected in the same year.
 
 \section{Voting Practicalities}
-Voting is usually required to pass a motion, and to elect a candidate.  As detailed in \autoref{sec:motionvoting}, voting on motions is usually done by a simple show of hands for votes for, votes against and abstentions.  However, elections for roles and certain special cases for motions (conflicting motions or amendments, see \autoref{sec:conflicting}) use voting systems that require some explanation.
+Voting is usually required to pass a motion, and to elect a candidate.  As detailed in section \ref{sec:motionvoting}, voting on motions is usually done by a simple show of hands for votes for, votes against and abstentions.  However, elections for roles and certain special cases for motions (conflicting motions or amendments, see \ref{sec:conflicting}) use voting systems that require some explanation.
 
 \subsection{Secret Ballots}
 Elections are usually held in secret, with votes expressed written down anonymously on ballot papers.  These votes are then collected and counted in public, and the result announced to the electorate.  When voting on motions is held in secret, a similar process may be used, or possibly for convenience, members of the discussion may be asked to close their eyes and vote normally with hands.
