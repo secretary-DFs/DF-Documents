@@ -6,6 +6,8 @@ Foreword
 
 The motions listed here are now in the order they will be in on the final agenda.  The deadline for submission has passed, and as such if any new motions or musings are received they will be discussed only if there is sufficient time available.  Nominations for elections may still be received.
 
+(This section will be included when released after 16th August, it is not true yet)
+
 Motions
 -------
 
