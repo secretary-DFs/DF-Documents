@@ -19,4 +19,5 @@ Therefore, this Althing instructs the secretary to ensure the selection of two D
 
 The people selected to be applicants will be able to get the movement more mainstream recognition, and slightly further radicalise the TV show 'Love Island,' if they manage to get onto the show.
 
-(Ash Taylor)
+(Proposed by Ash Taylor)
+(Seconded by Zeph Deakin)
