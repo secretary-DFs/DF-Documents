@@ -1,4 +1,4 @@
-Motions, Musings and Nominations for Althing 2013
+Motions, Musings and Nominations for Althing 2018
 =================================================
 
 Foreword
