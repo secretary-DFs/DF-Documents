@@ -24,3 +24,19 @@ The people selected to be applicants will be able to get the movement more mains
 (Proposed by Ash Taylor)
 
 (Seconded by Zeph Deakin)
+
+### Motion 2 (Vote of No Confidence Reasonings) ###
+
+This Althing appends section B.1.5.2.1 of the constitution with:
+
+"Whoever submits the call for a vote of no confidence in a committee role must provide a written statement of reasoning for this decision. This statement will be sent to the committee role in question when they are informed that someone has requested a vote of no confidence in them, and the other members of committee when they are informed about the call."
+
+This Althing also appends section B.3.5.2.1 of the constitution with:
+
+"Whoever submits the call for a vote of no confidence must provide a written statement of reasoning for this decision. This statement will be sent to the role in question when they are informed that someone has requested a vote of no confidence in them, and DF Committee when they are informed about the call."
+
+#### Rationale ####
+
+When someone has a Vote of No Confidence called in them, it will often be called by someone who wishes to remain anonymous. This gives the person subject to the vote very little chance to build a case in their favour, as they don't know who, and from what capacity, sent it, and they also don't know why it has been called. This means that they have very little to work on to convince DF Committee that the issues that have been seen in them can be resolved.
+
+(Proposed by Ash Taylor)
