@@ -27,11 +27,15 @@ The people selected to be applicants will be able to get the movement more mains
 
 ### Motion 2 (Vote of No Confidence Reasonings) ###
 
-This Althing appends section B.1.5.2.1 of the constitution with:
+This Althing creates a requirement that the proposer of a Vote of No Confidence, in either Committee or Non-Committee roles, must submit a formal statement of reasoning, to be sent to the person being voted on and DF Committee, alongside their call for the vote.
+
+The Constitution shall be amended as follows:
+
+Append section B.1.5.2.1 of the constitution with:
 
 "Whoever submits the call for a vote of no confidence in a committee role must provide a written statement of reasoning for this decision. This statement will be sent to the committee role in question when they are informed that someone has requested a vote of no confidence in them, and the other members of committee when they are informed about the call."
 
-This Althing also appends section B.3.5.2.1 of the constitution with:
+Appends section B.3.5.2.1 of the constitution with:
 
 "Whoever submits the call for a vote of no confidence must provide a written statement of reasoning for this decision. This statement will be sent to the role in question when they are informed that someone has requested a vote of no confidence in them, and DF Committee when they are informed about the call."
 
