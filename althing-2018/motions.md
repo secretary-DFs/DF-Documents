@@ -39,6 +39,14 @@ Appends section **B.3.5.2.1** of the constitution with:
 
 *"Whoever submits the call for a vote of no confidence must provide a written statement of reasoning for this decision. This statement will be sent to the role in question when they are informed that someone has requested a vote of no confidence in them, and DF Committee when they are informed about the call."*
 
+Section **B.1.5.2.1** of the constitution will now read:
+
+*"Any DF may call a vote of no confidence on a role on committee; this vote will be taken by Committee (excluding the member in question) and will require an 2/3rds majority vote to pass. Whoever submits the call for a vote of no confidence in a committee role must provide a written statement of reasoning for this decision. This statement will be sent to the committee role in question when they are informed that someone has requested a vote of no confidence in them, and the other members of committee when they are informed about the call."*
+
+Section **B.3.5.2.1** of the constitution will now read:
+
+*"Any DF may call a vote of no confidence on any Non-Committee role; this vote will be taken by Committee and will require an 2/3rds majority vote to pass. Whoever submits the call for a vote of no confidence must provide a written statement of reasoning for this decision. This statement will be sent to the role in question when they are informed that someone has requested a vote of no confidence in them, and DF Committee when they are informed about the call."*
+
 #### Rationale ####
 
 When someone has a Vote of No Confidence called in them, it will often be called by someone who wishes to remain anonymous. This gives the person subject to the vote very little chance to build a case in their favour, as they don't know who, and from what capacity, sent it, and they also don't know why it has been called. This means that they have very little to work on to convince DF Committee that the issues that have been seen in them can be resolved.
