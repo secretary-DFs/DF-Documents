@@ -31,13 +31,13 @@ This Althing creates a requirement that the proposer of a Vote of No Confidence,
 
 The Constitution shall be amended as follows:
 
-	Append section B.1.5.2.1 of the constitution with:
+Append section **B.1.5.2.1** of the constitution with:
 
-	"Whoever submits the call for a vote of no confidence in a committee role must provide a written statement of reasoning for this decision. This statement will be sent to the committee role in question when they are informed that someone has requested a vote of no confidence in them, and the other members of committee when they are informed about the call."
+*"Whoever submits the call for a vote of no confidence in a committee role must provide a written statement of reasoning for this decision. This statement will be sent to the committee role in question when they are informed that someone has requested a vote of no confidence in them, and the other members of committee when they are informed about the call."*
 
-	Appends section B.3.5.2.1 of the constitution with:
+Appends section **B.3.5.2.1** of the constitution with:
 
-	"Whoever submits the call for a vote of no confidence must provide a written statement of reasoning for this decision. This statement will be sent to the role in question when they are informed that someone has requested a vote of no confidence in them, and DF Committee when they are informed about the call."
+*"Whoever submits the call for a vote of no confidence must provide a written statement of reasoning for this decision. This statement will be sent to the role in question when they are informed that someone has requested a vote of no confidence in them, and DF Committee when they are informed about the call."*
 
 #### Rationale ####
 
