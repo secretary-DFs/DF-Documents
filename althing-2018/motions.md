@@ -44,3 +44,12 @@ The Constitution shall be amended as follows:
 When someone has a Vote of No Confidence called in them, it will often be called by someone who wishes to remain anonymous. This gives the person subject to the vote very little chance to build a case in their favour, as they don't know who, and from what capacity, sent it, and they also don't know why it has been called. This means that they have very little to work on to convince DF Committee that the issues that have been seen in them can be resolved.
 
 (Proposed by Ash Taylor)
+
+Musings
+-------
+
+### Musing Alpha (Woodcraft Folk Name Change) ###
+
+I strongly feel that one of the reasons it is so hard to recruit new members is because of the name Woodcraft Folk. Although I understand the sentimental value of the name it is very silly to have a name that is not simply an ambiguous name that needs explaining but literally means something that we are not (people who make things out of wood). I also think the name is slightly embarrassing to try and get a more diverse group of people in. We spoke recently about doing uni fairs and there is no way I would ever set up a stall asking my peers to come learn about the woodcraft folk and if I did I would attract the same hemp wearing middle class that we are trying to diversify away from. I do not have an alternative and I do not think it will pass in 2019 but I think it is really important to start this conversation if we are going to keep woodcraft modern and attract more and new people. 
+
+(Aggie Taylor)
