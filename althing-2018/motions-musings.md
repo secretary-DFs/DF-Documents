@@ -13,7 +13,7 @@ Motions
 
 This Althing notes that Love Island is one of TV and pop culture's greatest current phenomena.
 This Althing also notes the barriers to general cultural awareness of the DF Movement.
-Therefore, this Althing instructs the secretary to ensure the selection of two DFs to apply to the next series of Love Island.
+Therefore, this Althing instructs the secretary to ensure the selection, at this Althing by election if possible considering timekeeping, of two DFs to apply to the next series of Love Island.
 
 #### Rationale ####
 
