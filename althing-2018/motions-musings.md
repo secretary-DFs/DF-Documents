@@ -43,11 +43,6 @@ When someone has a Vote of No Confidence called in them, it will often be called
 
 (Proposed by Ash Taylor)
 
-#### Rationale ####
-...
-
-(Proposed by Jonathan Leggett)
-
 Musings
 -------
 
