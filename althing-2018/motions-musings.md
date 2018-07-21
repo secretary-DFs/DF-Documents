@@ -43,7 +43,7 @@ When someone has a Vote of No Confidence called in them, it will often be called
 
 (Proposed by Ash Taylor)
 
-### Motion 3 (Vote of No Confidence Discussion) ###
+### Motion 3 (Vote of No Confidence Submitter Vote) ###
 
 This Althing amends the constitution such that the person who calls a vote of no confidence must also be involved in the discussion and vote of no confidence itself.
 
