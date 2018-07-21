@@ -43,15 +43,6 @@ When someone has a Vote of No Confidence called in them, it will often be called
 
 (Proposed by Ash Taylor)
 
-### Motion 3 (Vote of No Confidence Submitter Vote) ###
-
-This Althing amends the constitution such that the person who calls a vote of no confidence must also be involved in the discussion and vote of no confidence itself.
-
-The Constitution shall be amended as follows:
-
-* Append section **B.1.5.2.2** of the constitution with: *", as well as the DF that called the vote."*
-* Section **B.1.5.2.2** of the constitution will now read: *"A vote may be held at any time as long as the Committee role in question was given at least 10 days notice of the vote, and is offered to present their case to Committee either in person or in writing before the vote. Every member of Committee must be involved in the discussion and the vote, as well as the DF that called the vote."*
-
 #### Rationale ####
 ...
 
