@@ -51,9 +51,3 @@ Musings
 I strongly feel that one of the reasons it is so hard to recruit new members is because of the name Woodcraft Folk. Although I understand the sentimental value of the name it is very silly to have a name that is not simply an ambiguous name that needs explaining but literally means something that we are not (people who make things out of wood). I also think the name is slightly embarrassing to try and get a more diverse group of people in. We spoke recently about doing uni fairs and there is no way I would ever set up a stall asking my peers to come learn about the woodcraft folk and if I did I would attract the same hemp wearing middle class that we are trying to diversify away from. I do not have an alternative and I do not think it will pass in 2019 but I think it is really important to start this conversation if we are going to keep woodcraft modern and attract more and new people. 
 
 (Aggie Taylor)
-
-### Musing Bravo (Safeguarding) ###
-
-Our current safeguarding policy is in places entirely example based, which isn't very useful due to the unique nature of most safeguarding cases. We should try and standardise this, as such ambiguity can make it easier to claim the policy has been broken, making safeguarding harder for committee and a more difficult and draining procedure for all those involved.
-
-(Jonathan Leggett)
