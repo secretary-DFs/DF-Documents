@@ -43,6 +43,22 @@ When someone has a Vote of No Confidence called in them, it will often be called
 
 (Proposed by Ash Taylor)
 
+### Motion 3 (Electing DF Committee's representatives to General Council) ###
+
+This Althing notes that General Council’s residential meeting that takes place in Autumn is critical for a new member of General Council. Therefore, this Althing resolves to allow DF Committee to elect their General Council representatives between Althing and Old/New, allowing them to attend the residential meeting in the case of Old/New taking place afterwards.
+
+The constitution will be amended as follows:
+
+* Append **B.4.2.2** with *“This may exclude the General Council representatives who can be elected between Althing and Old/New.”*
+
+* Section **B.4.2.2** will now read as follows: *“The business of Old/New will include the election of secondary roles (see B.1.3.2). This may exclude the General Council representatives who can be elected between Althing and Old/New.”*
+
+#### Rationale ####
+
+Scheduling conflicts can mean it is difficult to ensure that Old/New happens before the first General Council meeting. This motion would guarantee DF Committee's representatives to GC have the ability to attend a very important and helpful meeting regardless of when Old/New happens. 
+
+(Proposed by Lara Taylor)
+
 Musings
 -------
 
