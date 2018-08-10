@@ -59,6 +59,36 @@ Scheduling conflicts can mean it is difficult to ensure that Old/New happens bef
 
 (Proposed by Lara Taylor)
 
+### Motion 4 (Expensed Places Event Payment) ###
+
+This Althing notes that current practise has been to allow those with expensed places to be exempt from paying for the business event they are expensed to.
+
+This Althing also notes that the Democratic Procedures document states that those with expensed places may claim, 'Travel Expenses' but does not reference the requirement to pay for the event itself.
+
+Therefore, this Althing amends the Democratic Procedures as follows:
+
+* Append: *"and may be exempt from having to pay the full event cost"* to the first sentence of sections **2.3.1** and **2.3.2** of the Democratic Procedures."
+
+#### Rationale ####
+
+It is important to update our documents to reflect current practises.
+
+(Proposed by Ash Taylor)
+
+### Motion 5 (Seconding of Motions) ###
+
+This Althing amends the democratic procedures, such that the body seconding a motion at Althing must be different from the body proposing it. 
+
+The Althing also removes the implication that a motion being seconded is expected.
+
+The Democratic Procedures shall be amended as follows:
+In Section 3.1, change the word *'should'* to *'may,'* and change the words *'does not have to'* to *'must.'*
+#### Rationale ####
+
+A discussion at DF camp about the process of motions led to a group of people realising how confusing the wording around seconding is and have agreed this change could help clear that up.
+
+(Proposed by Lucy Wade)
+
 Musings
 -------
 
