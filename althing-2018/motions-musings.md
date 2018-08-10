@@ -82,12 +82,24 @@ This Althing amends the democratic procedures, such that the body seconding a mo
 The Althing also removes the implication that a motion being seconded is expected.
 
 The Democratic Procedures shall be amended as follows:
-In Section 3.1, change the word *'should'* to *'may,'* and change the words *'does not have to'* to *'must.'*
+
+* In Section 3.1, change the word *'should'* to *'may,'* and change the words *'does not have to'* to *'must.'*
+
 #### Rationale ####
 
 A discussion at DF camp about the process of motions led to a group of people realising how confusing the wording around seconding is and have agreed this change could help clear that up.
 
 (Proposed by Lucy Wade)
+
+### Motion 6 (Events Contact) ###
+
+This Althing instructs the Events Rep to ensure that for the entire duration of every event, business or social, there is a contactable phone number and email address to be checked twice daily on the event, ensuring all queries and issues get prompt responses.
+
+#### Rationale ####
+
+Although this is likely already a policy, it has not been in practice on the last two events (soz guys, a tad my fault). At DF camp, a parent tried to contact us concerning the safe return of a DF from the site, and received absolutely no response from anybody until I received the texts and emails after the camp had ended. This concerns me as it (on top of the clear safety issue for people in need of assistance) reduces our credibility as an organisation.
+
+(Proposed by Robin Lyster)
 
 Musings
 -------
