@@ -101,6 +101,22 @@ Although this is likely already a policy, it has not been in practice on the las
 
 (Proposed by Robin Lyster)
 
+### Motion 7 (Sustainability Rep) ###
+
+This Althing changes the role of Sustainability from a Secondary DF Committee Role to a Non-Committee role.
+
+The Constitution will be amended as follows:
+* Remove *"Sustainability Representative"* from section **B.1.3.2.3 *(The Secondary roles shall be the following)***
+* Add *"Sustainability Representative"* to section **B.3.2.2**
+
+#### Rationale ####
+
+There is very little reason that the sustainability representative needs prior access to DF Committee. They will still be able to have access to talk to all members of DF Committee through email, in particular the events rep and by extension, events teams.
+
+Making it a non-committee role rather than a secondary role will ensure that there will be a greater range of people to choose from, including those who may be more suitable for the role than the small number of people on DF Committee.
+
+(Proposed by Ash Taylor)
+
 Musings
 -------
 
