@@ -130,7 +130,7 @@ By being told that you had been vetoed for a role you have a better understandin
 This Althing removes the Workers' Beer Representative from the set of Non-Committee roles, with their duties absorbed by the Fundraising Representative.
 
 The constiution will be amended as follows:
-* Remove *"Workers' Beer Representative"* from section **B.3.2.2 *(The primary roles shall be the following:)***
+* Remove *"Workers' Beer Representative"* from section **B.3.2.2 **
 
 #### Rationale ####
 
