@@ -1,4 +1,4 @@
-Motions, Musings and Nominations for Althing 2018
+Motions and Musings for Althing 2018
 =================================================
 
 Foreword
@@ -20,8 +20,6 @@ Therefore, this Althing instructs the secretary to ensure the selection, at this
 The people selected to be applicants will be able to get the movement more mainstream recognition, and slightly further radicalise the TV show 'Love Island,' if they manage to get onto the show.
 
 (Proposed by Ash Taylor)
-
-(Seconded by Zeph Deakin)
 
 ### Motion 2 (Vote of No Confidence Reasonings) ###
 
@@ -117,11 +115,43 @@ Making it a non-committee role rather than a secondary role will ensure that the
 
 (Proposed by Ash Taylor)
 
+### Motion 8 (Veto) ###
+
+This Althing changes the veto such that any party that was vetoed for a role will be informed that the veto took place. Only that party would know that the veto took place, and this detail shouldn’t be revealed to the wider movement.
+
+#### Rationale ####
+
+By being told that you had been vetoed for a role you have a better understanding of whether you should be standing for a role and an insight into the reasons that the veto took place.
+
+(Proposed by Joel Cockerill-Evans)
+
+### Motion 9 (Workers' Beer Representative) ###
+
+This Althing removes the Workers' Beer Representative from the set of Non-Committee roles, with their duties absorbed by the Fundraising Representative.
+
+The constiution will be amended as follows:
+* Remove *"Workers' Beer Representative"* from section **B.3.2.2 *(The primary roles shall be the following:)***
+
+#### Rationale ####
+
+This role should be done by the fundraising rep to give it some accountability.
+
+(Proposed by Sophie Holden)
+
 Musings
 -------
 
+A musing consists of a thought or a question, formulated to inspire creative discussion. A musing is
+less formal than a motion, and are discussed in the ‘open space’ system. Musings have an open result; that is to say the actions to come out of a musing are not predefined. It may be the case that a motion is formulated and proposed as a result of a musing, but equally a working group may be set up, or a project started by interested parties.
+
 ### Musing Alpha (Woodcraft Folk Name Change) ###
 
-I strongly feel that one of the reasons it is so hard to recruit new members is because of the name Woodcraft Folk. Although I understand the sentimental value of the name it is very silly to have a name that is not simply an ambiguous name that needs explaining but literally means something that we are not (people who make things out of wood). I also think the name is slightly embarrassing to try and get a more diverse group of people in. We spoke recently about doing uni fairs and there is no way I would ever set up a stall asking my peers to come learn about the woodcraft folk and if I did I would attract the same hemp wearing middle class that we are trying to diversify away from. I do not have an alternative and I do not think it will pass in 2019 but I think it is really important to start this conversation if we are going to keep woodcraft modern and attract more and new people. 
+I strongly feel that one of the reasons it is so hard to recruit new members is because of the name Woodcraft Folk. Although I understand the sentimental value of the name it is very silly to have a name that is not simply an ambiguous name that needs explaining but literally means something that we are not (people who make things out of wood). I also think the name is slightly embarrassing to try and get a more diverse group of people in. We spoke recently about doing uni fairs and there is no way I would ever set up a stall asking my peers to come learn about the woodcraft folk and if I did I would attract the same hemp wearing middle class that we are trying to diversify away from. I do not have an alternative and I do not think it will pass in 2019 but I think it is really important to start this conversation if we are going to keep woodcraft modern and attract more and new people.
 
 (Aggie Taylor)
+
+### Musing Bravo (Food on Events) ###
+It's been a year since we initiated our [food policy](https://docs.google.com/document/d/1r45kNGZH-K4z2Nv_OieXemZLgcTCE36ey0EQ0C2hDPk/edit?usp=sharing) and this is a discussion about how it's gone. How sustainable are we being? How is the way we handle food impacting KPs, coordinators, and clans? And how is food affecting the way that people enjoy, and decide to come to, events? This musing will give you the opportunity to come up with meaningful change for the future through motion-writing, and allow you to have a think about changes you might want to make to the policy.
+
+(Multiple parties)
+
