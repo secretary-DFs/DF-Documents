@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 Motions and Musings for Althing 2018
 =================================================
 
