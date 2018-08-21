@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 Motions and Musings for Althing 2018
 =================================================
 
@@ -104,7 +109,9 @@ Although this is likely already a policy, it has not been in practice on the las
 This Althing changes the role of Sustainability from a Secondary DF Committee Role to a Non-Committee role.
 
 The Constitution will be amended as follows:
-* Remove *"Sustainability Representative"* from section **B.1.3.2.3 *(The Secondary roles shall be the following)***
+
+* Remove *"Sustainability Representative"* from section **B.1.3.2.3 (*The Secondary roles shall be the following*)**
+
 * Add *"Sustainability Representative"* to section **B.3.2.2**
 
 #### Rationale ####
@@ -130,6 +137,7 @@ By being told that you had been vetoed for a role you have a better understandin
 This Althing removes the Workers' Beer Representative from the set of Non-Committee roles, with their duties absorbed by the Fundraising Representative.
 
 The constiution will be amended as follows:
+
 * Remove *"Workers' Beer Representative"* from section **B.3.2.2 **
 
 #### Rationale ####
@@ -154,4 +162,3 @@ I strongly feel that one of the reasons it is so hard to recruit new members is 
 It's been a year since we initiated our [food policy](https://docs.google.com/document/d/1r45kNGZH-K4z2Nv_OieXemZLgcTCE36ey0EQ0C2hDPk/edit?usp=sharing) and this is a discussion about how it's gone. How sustainable are we being? How is the way we handle food impacting KPs, coordinators, and clans? And how is food affecting the way that people enjoy, and decide to come to, events? This musing will give you the opportunity to come up with meaningful change for the future through motion-writing, and allow you to have a think about changes you might want to make to the policy.
 
 (Multiple parties)
-
