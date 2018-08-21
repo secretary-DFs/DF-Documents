@@ -133,7 +133,7 @@ This Althing removes the Workers' Beer Representative from the set of Non-Commit
 
 The constiution will be amended as follows:
 
-* Remove *"Workers' Beer Representative"* from section **B.3.2.2 **
+* Remove *"Workers' Beer Representative"* from section **B.3.2.2**
 
 #### Rationale ####
 
