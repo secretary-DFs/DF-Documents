@@ -21,6 +21,8 @@ The people selected to be applicants will be able to get the movement more mains
 
 (Proposed by Ash Taylor)
 
+(Seconded by Zeph Deakin)
+
 ### Motion 2 (Vote of No Confidence Reasonings) ###
 
 This Althing creates a requirement that the proposer of a Vote of No Confidence, in either Committee or Non-Committee roles, must submit a formal statement of reasoning, to be sent to the person being voted on and DF Committee, alongside their call for the vote.
@@ -57,6 +59,8 @@ Scheduling conflicts can mean it is difficult to ensure that Old/New happens bef
 
 (Proposed by Lara Taylor)
 
+(Seconded by Ash Taylor)
+
 ### Motion 4 (Expensed Places Event Payment) ###
 
 This Althing notes that current practise has been to allow those with expensed places to be exempt from paying for the business event they are expensed to.
@@ -71,7 +75,7 @@ Therefore, this Althing amends the Democratic Procedures as follows:
 
 It is important to update our documents to reflect current practises.
 
-(Proposed by Ash Taylor)
+(Proposed and Seconded by Ash Taylor)
 
 ### Motion 5 (Seconding of Motions) ###
 
@@ -88,6 +92,8 @@ The Democratic Procedures shall be amended as follows:
 A discussion at DF camp about the process of motions led to a group of people realising how confusing the wording around seconding is and have agreed this change could help clear that up.
 
 (Proposed by Lucy Wade)
+
+(Seconded by Alfie Burgh)
 
 ### Motion 6 (Events Contact) ###
 
