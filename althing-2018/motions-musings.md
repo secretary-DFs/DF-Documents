@@ -160,3 +160,5 @@ It's been a year since we initiated our [food policy](https://docs.google.com/do
 
 ### Musing Charlie (Caucuses) ###
 Feedback from the BME caucus at DF camp/the fishbowl seemed to be a potentially useful starting point for some positive changes in DFs, however many other caucuses were cut short or pushed to the end of the program, and weren’t able to give feedback to the wider group. Therefore it seems that this might be something that needs to be highlighted more at future events so that caucuses can be as useful and positive as possible for the movement. More could be done to make caucuses an important and productive part of program, especially with regards to the wider group hearing feedback from them. Perhaps this could be done at events, or perhaps each caucus might try to send a representative to feedback at an upcoming business event? Maybe we could even consider making an individual person (secondary committee role?) responsible for ensuring caucuses happen on at least a large number of events and feedback from them is heard? 
+
+(Rose Pitman-Wallace)
