@@ -23,25 +23,19 @@ The people selected to be applicants will be able to get the movement more mains
 
 (Seconded by Zeph Deakin)
 
-### Motion 2 (Vote of No Confidence Reasonings) ###
+### Motion 2 (Workers' Beer Representative) ###
 
-This Althing creates a requirement that the proposer of a Vote of No Confidence, in either Committee or Non-Committee roles, must submit a formal statement of reasoning, to be sent to the person being voted on and DF Committee, alongside their call for the vote.
+This Althing removes the Workers' Beer Representative from the set of Non-Committee roles, with their duties absorbed by the Fundraising Representative.
 
-The Constitution shall be amended as follows:
+The constitution will be amended as follows:
 
-* Append section **B.1.5.2.1** of the constitution with: *"Whoever submits the call for a vote of no confidence in a committee role must provide a written statement of reasoning for this decision. This statement will be sent to the committee role in question when they are informed that someone has requested a vote of no confidence in them, and the other members of committee when they are informed about the call."*
-
-* Append section **B.3.5.2.1** of the constitution with: *"Whoever submits the call for a vote of no confidence must provide a written statement of reasoning for this decision. This statement will be sent to the role in question when they are informed that someone has requested a vote of no confidence in them, and DF Committee when they are informed about the call."*
-
-* Section **B.1.5.2.1** of the constitution will now read: *"Any DF may call a vote of no confidence on a role on committee; this vote will be taken by Committee (excluding the member in question) and will require an 2/3rds majority vote to pass. Whoever submits the call for a vote of no confidence in a committee role must provide a written statement of reasoning for this decision. This statement will be sent to the committee role in question when they are informed that someone has requested a vote of no confidence in them, and the other members of committee when they are informed about the call."*
-
-* Section **B.3.5.2.1** of the constitution will now read: *"Any DF may call a vote of no confidence on any Non-Committee role; this vote will be taken by Committee and will require an 2/3rds majority vote to pass. Whoever submits the call for a vote of no confidence must provide a written statement of reasoning for this decision. This statement will be sent to the role in question when they are informed that someone has requested a vote of no confidence in them, and DF Committee when they are informed about the call."*
+* Remove *"Workers' Beer Representative"* from section **B.3.2.2**
 
 #### Rationale ####
 
-When someone has a Vote of No Confidence called in them, it will often be called by someone who wishes to remain anonymous. This gives the person subject to the vote very little chance to build a case in their favour, as they don't know who, and from what capacity, sent it, and they also don't know why it has been called. This means that they have very little to work on to convince DF Committee that the issues that have been seen in them can be resolved.
+This role should be done by the fundraising rep to give it some accountability.
 
-(Proposed by Ash Taylor)
+(Proposed by Sophie Holden)
 
 ### Motion 3 (Electing DF Committee's representatives to General Council) ###
 
@@ -95,17 +89,7 @@ A discussion at DF camp about the process of motions led to a group of people re
 
 (Seconded by Alfie Burgh)
 
-### Motion 6 (Events Contact) ###
-
-This Althing instructs the Events Rep to ensure that for the entire duration of every event, business or social, there is a contactable phone number and email address to be checked twice daily on the event, ensuring all queries and issues get prompt responses.
-
-#### Rationale ####
-
-Although this is likely already a policy, it has not been in practice on the last two events (soz guys, a tad my fault). At DF camp, a parent tried to contact us concerning the safe return of a DF from the site, and received absolutely no response from anybody until I received the texts and emails after the camp had ended. This concerns me as it (on top of the clear safety issue for people in need of assistance) reduces our credibility as an organisation.
-
-(Proposed by Robin Lyster)
-
-### Motion 7 (Sustainability Rep) ###
+### Motion 6 (Sustainability Rep) ###
 
 This Althing changes the role of Sustainability from a Secondary DF Committee Role to a Non-Committee role.
 
@@ -123,6 +107,16 @@ Making it a non-committee role rather than a secondary role will ensure that the
 
 (Proposed by Ash Taylor)
 
+### Motion 7 (Events Contact) ###
+
+This Althing instructs the Events Rep to ensure that for the entire duration of every event, business or social, there is a contactable phone number and email address to be checked twice daily on the event, ensuring all queries and issues get prompt responses.
+
+#### Rationale ####
+
+Although this is likely already a policy, it has not been in practice on the last two events (soz guys, a tad my fault). At DF camp, a parent tried to contact us concerning the safe return of a DF from the site, and received absolutely no response from anybody until I received the texts and emails after the camp had ended. This concerns me as it (on top of the clear safety issue for people in need of assistance) reduces our credibility as an organisation.
+
+(Proposed by Robin Lyster)
+
 ### Motion 8 (Veto) ###
 
 This Althing changes the veto such that any party that was vetoed for a role will be informed that the veto took place. Only that party would know that the veto took place, and this detail shouldn’t be revealed to the wider movement.
@@ -133,19 +127,25 @@ By being told that you had been vetoed for a role you have a better understandin
 
 (Proposed by Joel Cockerill-Evans)
 
-### Motion 9 (Workers' Beer Representative) ###
+### Motion 9 (Vote of No Confidence Reasonings) ###
 
-This Althing removes the Workers' Beer Representative from the set of Non-Committee roles, with their duties absorbed by the Fundraising Representative.
+This Althing creates a requirement that the proposer of a Vote of No Confidence, in either Committee or Non-Committee roles, must submit a formal statement of reasoning, to be sent to the person being voted on and DF Committee, alongside their call for the vote.
 
-The constiution will be amended as follows:
+The Constitution shall be amended as follows:
 
-* Remove *"Workers' Beer Representative"* from section **B.3.2.2**
+* Append section **B.1.5.2.1** of the constitution with: *"Whoever submits the call for a vote of no confidence in a committee role must provide a written statement of reasoning for this decision. This statement will be sent to the committee role in question when they are informed that someone has requested a vote of no confidence in them, and the other members of committee when they are informed about the call."*
+
+* Append section **B.3.5.2.1** of the constitution with: *"Whoever submits the call for a vote of no confidence must provide a written statement of reasoning for this decision. This statement will be sent to the role in question when they are informed that someone has requested a vote of no confidence in them, and DF Committee when they are informed about the call."*
+
+* Section **B.1.5.2.1** of the constitution will now read: *"Any DF may call a vote of no confidence on a role on committee; this vote will be taken by Committee (excluding the member in question) and will require an 2/3rds majority vote to pass. Whoever submits the call for a vote of no confidence in a committee role must provide a written statement of reasoning for this decision. This statement will be sent to the committee role in question when they are informed that someone has requested a vote of no confidence in them, and the other members of committee when they are informed about the call."*
+
+* Section **B.3.5.2.1** of the constitution will now read: *"Any DF may call a vote of no confidence on any Non-Committee role; this vote will be taken by Committee and will require an 2/3rds majority vote to pass. Whoever submits the call for a vote of no confidence must provide a written statement of reasoning for this decision. This statement will be sent to the role in question when they are informed that someone has requested a vote of no confidence in them, and DF Committee when they are informed about the call."*
 
 #### Rationale ####
 
-This role should be done by the fundraising rep to give it some accountability.
+When someone has a Vote of No Confidence called in them, it will often be called by someone who wishes to remain anonymous. This gives the person subject to the vote very little chance to build a case in their favour, as they don't know who, and from what capacity, sent it, and they also don't know why it has been called. This means that they have very little to work on to convince DF Committee that the issues that have been seen in them can be resolved.
 
-(Proposed by Sophie Holden)
+(Proposed by Ash Taylor)
 
 Musings
 -------
