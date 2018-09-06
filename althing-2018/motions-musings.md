@@ -153,11 +153,11 @@ Musings
 A musing consists of a thought or a question, formulated to inspire creative discussion. A musing is
 less formal than a motion, and are discussed in the ‘open space’ system. Musings have an open result; that is to say the actions to come out of a musing are not predefined. It may be the case that a motion is formulated and proposed as a result of a musing, but equally a working group may be set up, or a project started by interested parties.
 
-### Musing Alpha (Woodcraft Folk Name Change) ###
+### Musing Alfa (Woodcraft Folk Name Change) ###
 
 I strongly feel that one of the reasons it is so hard to recruit new members is because of the name Woodcraft Folk. Although I understand the sentimental value of the name it is very silly to have a name that is not simply an ambiguous name that needs explaining but literally means something that we are not (people who make things out of wood). I also think the name is slightly embarrassing to try and get a more diverse group of people in. We spoke recently about doing uni fairs and there is no way I would ever set up a stall asking my peers to come learn about the woodcraft folk and if I did I would attract the same hemp wearing middle class that we are trying to diversify away from. I do not have an alternative and I do not think it will pass in 2019 but I think it is really important to start this conversation if we are going to keep woodcraft modern and attract more and new people.
 
-(Aggie Taylor)
+(Aggie Taylor - Treasurer)
 
 ### Musing Bravo (Food on Events) ###
 It's been a year since we initiated our [food policy](https://docs.google.com/document/d/1r45kNGZH-K4z2Nv_OieXemZLgcTCE36ey0EQ0C2hDPk/edit?usp=sharing) and this is a discussion about how it's gone. How sustainable are we being? How is the way we handle food impacting KPs, coordinators, and clans? And how is food affecting the way that people enjoy, and decide to come to, events? This musing will give you the opportunity to come up with meaningful change for the future through motion-writing, and allow you to have a think about changes you might want to make to the policy.
@@ -168,3 +168,18 @@ It's been a year since we initiated our [food policy](https://docs.google.com/do
 Feedback from the BME caucus at DF camp/the fishbowl seemed to be a potentially useful starting point for some positive changes in DFs, however many other caucuses were cut short or pushed to the end of the program, and weren’t able to give feedback to the wider group. Therefore it seems that this might be something that needs to be highlighted more at future events so that caucuses can be as useful and positive as possible for the movement. More could be done to make caucuses an important and productive part of program, especially with regards to the wider group hearing feedback from them. Perhaps this could be done at events, or perhaps each caucus might try to send a representative to feedback at an upcoming business event? Maybe we could even consider making an individual person (secondary committee role?) responsible for ensuring caucuses happen on at least a large number of events and feedback from them is heard? 
 
 (Rose Pitman-Wallace)
+
+### Musing Delta (Number of People Holding Safeguarding) ###
+There's a restriction that the role of safeguarding can only be held by one person at a time. Should this be changed, either to allow two people to hold the role, or to make it mandatory that there are two safeguarding representatives. Because safeguarding is often a personal matter in DFs, it could be useful to split the role between two people so it is less likely to have a conflict of interest. It could also stop putting as much pressure on other ctte members who are often already stretched. This might however put more strain on DF finances and could mean that there are more breaches of confidentiality.
+
+(Brynn Alred - Safeguarding Rep)
+
+### Musing Echo (What do we want from the MEST-UP policy?) ###
+There is going to be a new policy in town: The MEST-UP policy! This will give us a chance to solidify the way that MEST-UP operates as a group on events. Come to this musing to discuss what you think should be in the policy before it begins being drafted over the next few months.
+
+(Ash Taylor - Secretary)
+
+### Musing Foxtrot (Fundraising) ###
+A brainstorming session to discuss all the ways that DFs could raise funds.
+
+(Amber Sims - Accessibility Rep)
