@@ -204,7 +204,7 @@ Narrow down to four ideas:
 	* 6 for, 10 against, 5 abstentions, amendment falls
 * Contestants in love island are put under stress and emotional trama, do we really want to send DFs to have this kind of stress?
 * LGBT representaion on love island, we'd be perfect to do this
-* *Amendment*, a significant contribution of the winnings are donated to DFs, Amendment is pasesed
+* *Amendment*, a significant contribution of the winnings are donated to DFs, Amendment is passed
 * Only 18+ DFs can be sent but still includes younger demographoic in the audience
 * Make sure that those who apply are people who want to apply.
 * 10 for, 5 against, 6 absentions, motion passes
@@ -217,15 +217,18 @@ Narrow down to four ideas:
 
 #### Motion 4
 
-* Members are expenced for coming to events, but the democratic proseadures don't. We should update our documents to reflect what we already practice. No one spoke against, the motion passes
+* Members are expensed for coming to events, but the democratic procedures don't. We should update our documents to reflect what we already practice.
+* No one spoke against, the motion passes
 
 #### Motion 5
 
-* Current pracice is that you can second your own motion and that it 'should' be seconded. Motions don't need to be seconded, this motion will ensure that future motions don't have to be seconded but you cannot second your own motion. No one spoke against it motion passed
+* Current practice is that you can second your own motion and that it 'should' be seconded. Motions don't need to be seconded, this motion will ensure that future motions don't have to be seconded but you cannot second your own motion.
+* No one spoke against it motion passed
 
 #### Motion 6
 
-* There is no reason for the role of sustainability to be on committee, it should be a non committee role. No one spokw against the mosion is paseed
+* There is no reason for the role of sustainability to be on committee, it should be a non committee role.
+* No one spoke against the motion is passed
 
 #### Motion 7
 
@@ -246,7 +249,7 @@ Narrow down to four ideas:
 *  *Proposal* we agree with the basis of the motion and we should move to vote.
 *  Make sure that parents of 16/17 year olds are aware that this is a check not an all the time contactable number.
 *  *Action* events rep to write the outcome of this motion into the events pack.
-*  The montion as amended has passed, no one spoke against motion
+*  The motion as amended has passed, no one spoke against motion
 
 #### Motion 2
 
