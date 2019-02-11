@@ -217,7 +217,7 @@ Narrow down to four ideas:
 
 #### Motion 4
 
-* Members are expensed for coming to events, but the democratic procedures don't. We should update our documents to reflect what we already practice.
+* Members are expensed for the price of business events, but the democratic procedures don't reflect this. We should update our documents to reflect what we already practice.
 * No one spoke against, the motion passes
 
 #### Motion 5
