@@ -6,4 +6,4 @@ This is being maintained by the secretary who will try to keep these as up to da
 
 If you need to contact the secretary for any reason please use secretary@spanthatworld.com
 
-*Blue Skies*
+**Blue Skies**
