@@ -99,37 +99,117 @@
         * "DFs, we're like the Borg"
       * **Action: Robin, Alexi, Joel, workshops for SA and other events on the thing**
 1. Events Budget Review
-    * Upped Food budget
-      * £3 too low, £4 too high, £3.25 seems reasonable
-    * Upped Accommodation
-      * £3.50 pp/n
-    * Surplus is little but there is still profit, just already allocated for stuff
-    * Programme
-      * £2 too £1.15
-    * It's very difficult to raise prices, but it is a necessary evil as the price of running events.
-    * last time it was raised was 2015 and 2013 before that
-    * Could we ask other DFs to subsidies other DF who can't
-      * There are possible ways of doing this
-    * showing the exact ways that the budget has changed
-      * It's difficult for fundraising to get money for widen participation as we aren't a underpriviliged group
-    * It can be very difficut to get people to pay more money
-    * Using a system for getting money similar to Fairer fare or just adding on to the fairer fundraising
-      * adding to fairer fare doesn't help people who live Local
-    * emailing parents to ask for money for the solidarity fund.
-    * Fairer Fare doesn't get used much, could we split it to reduce price for someone
-    * **Action: Robin to add this stuff to the Events form**
-    * Could we have card reader for people on events to make it easier
-      * **Action Lara and Alexi to find out about that**
-        * Only usable in sites with data
-        * £30 for one but has a charge of 1%
-    * Site Prices
-      * WW has a flat cost for site
-      * SA has both a flat cost and per person per night site cost
-      * DF Camp has per person night site cost
-    * Taking money from fairer?
-      * taking £1 from £5
-        * £2 is a lot and could cause bug issues for people
-      * £1 should be a good limit
-      * We should advertise Fairer Fare more
-        * **Action: Lara, make thing for info pack**
-      * 
+  * Upped Food budget
+    * £3 too low, £4 too high, £3.25 seems reasonable
+  * Upped Accommodation
+    * £3.50 pp/n
+  * Surplus is little but there is still profit, just already allocated for stuff
+  * Programme
+    * £2 too £1.15
+  * It's very difficult to raise prices, but it is a necessary evil as the price of running events.
+  * last time it was raised was 2015 and 2013 before that
+  * Could we ask other DFs to subsidies other DF who can't
+    * There are possible ways of doing this
+  * showing the exact ways that the budget has changed
+    * It's difficult for fundraising to get money for widen participation as we aren't a underpriviliged group
+  * It can be very difficut to get people to pay more money
+  * Using a system for getting money similar to Fairer fare or just adding on to the fairer fundraising
+    * adding to fairer fare doesn't help people who live Local
+  * emailing parents to ask for money for the solidarity fund.
+  * Fairer Fare doesn't get used much, could we split it to reduce price for someone
+  * **Action: Robin to add this stuff to the Events form**
+  * Could we have card reader for people on events to make it easier
+    * **Action Lara and Alexi to find out about that**
+      * Only usable in sites with data
+      * £30 for one but has a charge of 1%
+  * Site Prices
+    * WW has a flat cost for site
+    * SA has both a flat cost and per person per night site cost
+    * DF Camp has per person night site cost
+  * Taking money from fairer?
+    * taking £1 from £5
+      * £2 is a lot and could cause bug issues for people
+    * £1 should be a good limit
+    * We should advertise Fairer Fare more
+      * **Action: Lara, make thing for info pack**
+    * The solidarity fund is based on general income and can be very different to price of travel
+    * solidarity is much harder to figure out
+    * Increase the amount for solidarity to £2 but not decrease the Fairer fare
+    * **Action: Lara, making/adding a budget review policy piece**
+    * **Action: Lara, Alexi, look into solutions for Friends of the DFs, and do a dry run through google forms to ask whether people would.**
+    * Should we borrow the same system as General woodcraft or should we make our own
+    * We can set up direct debit
+    * Parents are a good way to make this happen
+    * We need to be very clear why we are asking for money
+      * we can use the stuff from the workshop that was run at WW
+    * Non-Woodie parents are more likely to give money for various reasons.
+    * **Action: Tom, We should have a Donate page when we can**
+1. Erasmus
+  * We gave Erasmus 4000 and woodcraft gave 4000 and the Austrians haven't given anything
+  * Kinderfreunde haven't paid anything
+  * Lara is writing a policy to avoid a repeat
+1.  Payment Policy
+  * The money spent on a event is decided by the coordinating but it's suggested the have control over the budget
+  * Making the Events rep check for people with unpaid event costs
+  * Spending is new
+    * Trying to find a balance between autonomy and safety in terms of money
+    * Adding examples of spending that should be checked with the treasurer
+  * **Action: Lara, Find Mest-Up Money**
+    * We should have a limit of how much you can spend without informing the treasurer
+1. Mest-Up Policy
+  * Is the content appropriate for a policy or is it more a Guide?
+  * There should still be some element of what MEST UP does, maybe shouldn't be a policy
+  * No current description of MEST UP, this should be made into a pack that all reps get when they're trained, printed version, available on website/online?
+  * Apathy regarding changing MEST UP, people don't suggest change but instead point out flaws. There needs to be a policy but needs to be worked on over the next few months
+  * People who are going to be reps should have input into the policy/Guide
+  * Ready for Althing
+  * There was an action to have a fake debrief fishbowl to show people the workings of MEST UP debriefs
+  * Would be useful so people know what they're getting into
+  * Possibly film MEST UP training? Would require someone to film it
+  * Debrief needs to change and be fixed
+  * Nobody comes to MEST UP workshops
+  * Vcamp is also a thing, as is many other things, there might not be enough time for MEST UP team to do in time without involvement form others
+  * Maybe form a team to help? (Working group)
+  * Vcamp team want MEST UP to be as easy as possible during Camp
+  * Description could be handed out to people at Camp
+  * **Action: Oliver, Joel, Delilah, Issy, Joe, Row, Noah, MEST UP guide working group to be made**
+  * For SA we should try get a polished guide, or at least something to give to people, even if it looks bad
+  * Separate policy and guide to be made
+  * Brynn and potentially even Debs should be involved in this discussion
+
+1. Vote on reviewing policies every two years: 11 ayes, 1 abstention
+
+  * **Action Joel to add updating clause to every policy**
+
+1. Financial Report
+
+  * Old number for money we have at the moment, but currently we've had £280 from STWWM Events
+  * No money from NE thing
+  * Winter Wonderland:
+      * Received £4880  payments
+      * People don't attend whole event, many late cancellations
+      * 800-1200 quid more payments could be collected, quite bad but kinda happens
+  * Expenditure:
+      * NE Thing, £320, considerably less than last time, but was vastly unattended
+      * Winter Wonderland, can't compare with last time because it was one event, we haven't spent that much
+      * So far £183 surplus plus £781 thing fund
+      * Really good, whoop whoop
+    * No equipment, but silent headphones made programme go way over budget
+    * Rename clan duties to "compulsary cooking workshop"
+    * Erasmus money is slightly less than expected, still big hit to finances
+    * Total money left is estimated 15 large, but was 21 big ones as of mid January
+    * We probably won't go into reserves, hopefully
+    * Cool, wonderful
+* **Action: Alfie, Put all the Df Events in the woodcraft calander**
+1. Campaigns role
+  * We don't have a campaigns rep
+  * People can feel pressured into filling a role
+  * Changing Campaigns to Activism?
+    * We should keep looking for a campaigns rep but we could
+      * **Action: write a motion to change campaigns to Activism**
+    *  Activism doesn't have a focused campaign
+    * Don't remove campaigns, but add activism
+  * Make campaigns run with a individual campaign
+  * **Action: Robin, get the programme for DF Camp to include choosing a campaign**
+  * Mind Map of the Activism Role
+    * **Action: Joel, Scan in the Mind Map**
