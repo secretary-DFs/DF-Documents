@@ -213,3 +213,8 @@
   * **Action: Robin, get the programme for DF Camp to include choosing a campaign**
   * Mind Map of the Activism Role
     * **Action: Joel, Scan in the Mind Map**
+  * Policy Policy Accepted
+    * 11 in favour, no against, no abstention
+  * Food Policy
+    * 8 in favour, no against, 1 abstention
+End of Buisness
