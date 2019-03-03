@@ -36,10 +36,12 @@
     * **SG** - I have had several cases all come up at the same time that I have been dealing with but have been very slow on. So I would like to find a better system for dealing with this because right now it isn’t ok. I have talked several of these over with Deb’s now so that should hopefully help.
     * **GC** - I have missed one meeting so as that I could come to the last thing but made it to the most recent meeting in February. We submitted motions to AG one of which was to raise membership fees but we have decided to raise the wage one made on mode average wage and the unwaged to remain at £12 a year to respect the DFs in the moment and that. This may or may not pass at AG this year. We have also decided to officially back the climate strikes that are happening in the UK which I think people in DF should now make an effort to promote as we can now officially back them.
   * Beth (Laymember)
-    *
+    * 
   * Alfie
     *
-  * Eliot, Hazel, Chris need to do
+  * Hazel
+    * Hey everyone, I haven't done that much since last thing soz. I wondered about running a first aid training weekend but we decided it wouldn't be cost effective, instead there will be FA training at df camp. I am aware that this I very close to v camp so it'll have to be made clear that anyone who does it will need dbs checks done in advance. I have also pretty much finished a handover pack template form thing (can email this to people/share on drive if you want to look through it?). Blue skies and hope y'all have a productive weekend :)
+  * Eliot, Chris need to do
     *
   * **ADD OTHER PEOPLES**
 1. Venturer Camp
