@@ -19,7 +19,8 @@
     * We have been helping with Spring Awakening (SA) preparation, mainly getting the welcome pack ready.
     * Generally things are going well and feeling on top of responsibilities :)
   * Izzy (Laymember & GC)
-    *
+    * After being elected to DF cttee and having my hand over from Oliver, I have not been doing a lot. I have been doing my pastoral support role within cttee, trying my best to help people as and when they need it. I have also made sure the actions list is being updated and that members are doing their actions. Both Beth and I are trying to stay on top of this alternatively. I’ve also been doing lots of other woodcraft things, including my role as GC rep, which has expanded into becoming a member of the Lockerbrook Management Committee. I have trained as a warden for Lockerbrook. I help advertising for winter wonderland.
+    * Things I would like to do in the future include being able to be more supportive and get involved in more projects for the wider movement, unfortunately due to uni finding a balance has taken some time .
   * Sarah (Fundraising)
     *
   * Joel (Secretary)
@@ -205,7 +206,7 @@
     * People can feel pressured into filling a role
   * Changing Campaigns to Activism?
     * We should keep looking for a campaigns rep but we could change the role anyway
-      * **Action: write a motion to change campaigns to Activism**
+      * **Action: Joel, write a motion to change campaigns to Activism**
     *  Activism doesn't have a focused campaign
     * Don't remove campaigns, but add activism
   * Make campaigns run with a individual campaign
