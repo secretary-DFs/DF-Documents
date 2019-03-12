@@ -36,7 +36,7 @@
     * **SG** - I have had several cases all come up at the same time that I have been dealing with but have been very slow on. So I would like to find a better system for dealing with this because right now it isn’t ok. I have talked several of these over with Deb’s now so that should hopefully help.
     * **GC** - I have missed one meeting so as that I could come to the last thing but made it to the most recent meeting in February. We submitted motions to AG one of which was to raise membership fees but we have decided to raise the wage one made on mode average wage and the unwaged to remain at £12 a year to respect the DFs in the moment and that. This may or may not pass at AG this year. We have also decided to officially back the climate strikes that are happening in the UK which I think people in DF should now make an effort to promote as we can now officially back them.
   * Beth (Laymember)
-    * 
+    *
   * Alfie
     *
   * Hazel
@@ -202,7 +202,7 @@
     * We probably won't go into reserves, hopefully
       * We might dip into reserves over DF Camp
     * Cool, wonderful
-* **Action: Alfie, Put all the Df Events in the woodcraft calander**
+* **Action: Alfie, Put all the Df Events in the woodcraft calendar**
 1. Campaigns role
   * We don't have a campaigns rep
     * People can feel pressured into filling a role
@@ -234,4 +234,4 @@
     * 11 in favour, no against, no abstentions
 1. Food Policy
     * 8 in favour, no against, 1 abstention
-End of Buisness
+End of Business
