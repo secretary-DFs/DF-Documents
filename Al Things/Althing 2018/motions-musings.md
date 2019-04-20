@@ -49,7 +49,7 @@ The constitution will be amended as follows:
 
 #### Rationale ####
 
-Scheduling conflicts can mean it is difficult to ensure that Old/New happens before the first General Council meeting. This motion would guarantee DF Committee's representatives to GC have the ability to attend a very important and helpful meeting regardless of when Old/New happens. 
+Scheduling conflicts can mean it is difficult to ensure that Old/New happens before the first General Council meeting. This motion would guarantee DF Committee's representatives to GC have the ability to attend a very important and helpful meeting regardless of when Old/New happens.
 
 (Proposed by Lara Taylor)
 
@@ -73,7 +73,7 @@ It is important to update our documents to reflect current practises.
 
 ### Motion 5 (Seconding of Motions) ###
 
-This Althing amends the democratic procedures, such that the body seconding a motion at Althing must be different from the body proposing it. 
+This Althing amends the democratic procedures, such that the body seconding a motion at Althing must be different from the body proposing it.
 
 The Althing also removes the implication that a motion being seconded is expected.
 
@@ -165,7 +165,7 @@ It's been a year since we initiated our [food policy](https://docs.google.com/do
 (Multiple parties)
 
 ### Musing Charlie (Caucuses) ###
-Feedback from the BME caucus at DF camp/the fishbowl seemed to be a potentially useful starting point for some positive changes in DFs, however many other caucuses were cut short or pushed to the end of the program, and weren’t able to give feedback to the wider group. Therefore it seems that this might be something that needs to be highlighted more at future events so that caucuses can be as useful and positive as possible for the movement. More could be done to make caucuses an important and productive part of program, especially with regards to the wider group hearing feedback from them. Perhaps this could be done at events, or perhaps each caucus might try to send a representative to feedback at an upcoming business event? Maybe we could even consider making an individual person (secondary committee role?) responsible for ensuring caucuses happen on at least a large number of events and feedback from them is heard? 
+Feedback from the BME caucus at DF camp/the fishbowl seemed to be a potentially useful starting point for some positive changes in DFs, however many other caucuses were cut short or pushed to the end of the program, and weren’t able to give feedback to the wider group. Therefore it seems that this might be something that needs to be highlighted more at future events so that caucuses can be as useful and positive as possible for the movement. More could be done to make caucuses an important and productive part of program, especially with regards to the wider group hearing feedback from them. Perhaps this could be done at events, or perhaps each caucus might try to send a representative to feedback at an upcoming business event? Maybe we could even consider making an individual person (secondary committee role?) responsible for ensuring caucuses happen on at least a large number of events and feedback from them is heard?
 
 (Rose Pitman-Wallace)
 
