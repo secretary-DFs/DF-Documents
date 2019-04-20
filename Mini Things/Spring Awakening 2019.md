@@ -34,8 +34,6 @@
       * Row and Noah decide the social media
     * Having non Mest-Up people to be involved
       * Can't see the woods for the trees
-      *
-    *
   * **DF Camp**
     * Got site
     * Roles Filled:
@@ -58,18 +56,17 @@
     * Discussion about prices about being too high at welsh thing, discussion about fairer fare but for events, solidarity fund (vague idea) people could apply to it and get reimbursed for the event cost at least partially to increase inclusivity and Accessibility, would be divvied out evenly
     * Wider woodcraft increasing membership, but the raise would be higher than ours would be (for individual and group membership) (set increase with minimum / median wage increases) idk summat like that
     * The £12.00 per year membership would increase with minimum, the normal membership would be increased with the median wage
-    * **TEMPERATURE CHEEEEECK** raising event prices
+    * **Temperature check** raising event prices
     * Very mixed bag
     * **Temperature check** Solidarity fund plus more event prices
     * More positive but still lukewarm
     * Worries about inaccessibility but understanding that we need more Money
     * We should look into creating a solidarity fund system, possibly opting in to pay more for the solidarity fund, as well as parents, others in the folk, as they might even say yes
     * Friends of the folk is a system that allows non members who support the folk's values can donate money, why not do this with DFs?
-    * If we increase event prices without changing how events are run, there'll be a sharp increase in event prices, as it happened last time. Even the solidarity fund might not be utilized enough to change the fact that some people can't come. Potentially reduce thing budget or decrease number of events before raising event prices. If the event price increases, increase the food allowance, goddamnit
+    * If we increase event prices without changing how events are run, there'll be a sharp increase in event prices, as it happened last time. Even the solidarity fund might not be utilized enough to change the fact that some people can't come. Potentially reduce thing budget or decrease number of events before raising event prices. If the event price increases, increase the food allowance
     * The solidarity fund won't be easy to know about, especially to new members, will make it harder to bring new members in
     * Money is difficult, the main thing is inclusivity. But if we can't run without the amount of money we get, then no one can come as we'll be slapped by the invisible hand of the free market into oblivion. Increasing price is the only viable way to do that right now. It's always a problem, people won't like it, but it's necessary.
     * People won't think they're poor enough to apply for the solidarity fund and might feel bad.
-    *
   * **Trans Stuff**
     * We need get a team to write it
     * **Tom has volunteered to be an admin for the woodcraft Folk Facebook page**
