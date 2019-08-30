@@ -19,6 +19,7 @@
   1. **Alex 'No Nips' Smithson Swain**
   1. RON
 * #### Mest-Up Co-ordinator
+  1. **Katie Lyster and Hazel Cawthorn**
   1. RON
 * #### Safeguarding Representative
   1. **Beth Aveyard**
@@ -34,8 +35,10 @@
   1. RON
 * #### Laymember
   1. **Izzy Stewart**
-  1. **Theo James-Lucas?**
+  1. **Theo James-Lucas**
   1. **Joe Irving**
+  1. **Lucy Kirby**
+  1. **Jacob Maynard-Vesely**
   1. RON
 * #### Training
   1. **N/A**
@@ -51,7 +54,7 @@
   1. **Gus & Iz Costello**
   1. RON
 * #### Web Fairy
-  1. Joe Irving
+  1. **Joe Irving**
   1. RON
 * #### First-Aid Fairy
   1. RON
@@ -68,6 +71,7 @@
 * #### London Liason
   1. RON
 * #### Shadow Events
+  1. **?Tom?**
   1. RON
 * #### Common Ground
   1. **Beth Aveyard**
