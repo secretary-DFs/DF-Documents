@@ -67,7 +67,6 @@
 * #### Shadow Events
   1. RON
 * #### Common Ground
-  1. **Beth Aveyard**
   1. **Alexi Brailey-Stämpfli**
   1. RON
 * #### Sustainability
