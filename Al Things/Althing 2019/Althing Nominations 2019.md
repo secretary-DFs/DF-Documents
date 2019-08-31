@@ -1,8 +1,6 @@
 ## Nominations
 ### Committee Roles
-* #### Affiliations (Potentially Outreach)
-  1. RON
-* #### Campaigns (Possibly Activism)
+* #### Activism
   1. **Kat**
   1. **Delilah Walbank**
   1. RON
@@ -12,7 +10,7 @@
 * #### Communications
   1. **Gus & Iz Costello**
   1. RON
-* #### Districts (Potentially Outreach)
+* #### Outreach
   1. **Theo James-Lucas**
   1. RON
 * #### Events Representative
