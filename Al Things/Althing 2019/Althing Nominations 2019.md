@@ -17,7 +17,7 @@
   1. **Alex 'No Nips' Smithson Swain**
   1. RON
 * #### Mest-Up Co-ordinator
-  1. **Katie Lyster and Hazel Cawthorn**
+  1. **Katie Lister and Hazel Cawthan**
   1. RON
 * #### Safeguarding Representative
   1. **Beth Aveyard**
