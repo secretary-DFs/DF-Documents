@@ -34,15 +34,11 @@
   1. **Alexi Brailey-Stämpfli**
   1. RON
 * #### Laymember
-  1. **Izzy Stewart**
   1. **Theo James-Lucas**
   1. **Joe Irving**
   1. **Lucy Kirby**
   1. **Jacob Maynard-Vesely**
   1. **Niamh Pragnol-Tol**
-  1. RON
-* #### Training
-  1. **N/A**
   1. RON
 
 ### Supervisory Roles
@@ -60,7 +56,6 @@
 * #### First-Aid Fairy
   1. RON
 * #### Venturer Committee Liason
-  1. **Theo James Lucas??**
   1. RON
 * #### International Oppurtunities
   1. RON
@@ -72,7 +67,6 @@
 * #### London Liason
   1. RON
 * #### Shadow Events
-  1. **?Tom?**
   1. RON
 * #### Common Ground
   1. **Beth Aveyard**
