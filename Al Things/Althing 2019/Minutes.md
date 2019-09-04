@@ -215,7 +215,8 @@
   * Mest-Up Co-ordinator
       1. **Katie Lister and Hazel Cawthan**
   * Safeguarding Representative
-      1. **Beth Aveyard**
+      1. Beth Aveyard
+      1. **RON**
   * Secretary
       1. **Joe Irving**
   * Shadow Treasurer
