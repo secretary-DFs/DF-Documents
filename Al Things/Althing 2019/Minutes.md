@@ -1,4 +1,5 @@
-  Intro
+# Althing 2019
+##  Intro
 * Attendance: Oliver (Chair of DF Committee), Izzy (Ex-Laymember & GC Rep), Hazel (Training), Niamh, Beth (Ex-Laymember), Alexi (Shadow Treasurer & GC Rep), Lucy, Joel (Secretary), Delilah, Alex (Shadow Events & Venturer Liason), Noah (Mest-Up Coordinator), Gus, Alfie (Comms), Sarah (Fundraising), Robin (Events), Chris (Ex-Affiliations)
   * Number: 16
 ## Musings
@@ -89,60 +90,61 @@
 * Omissions of Obligations
   * Seconded
   * Ammendment: Change health to well-being
-    * Accepted
+      * Accepted
   * Ammendment: Old-New thing to Old-New and things to business events
-    * Accepted
+      * Accepted
   * Ammendment: There are able to delegate to they are expected to delegate
-    * Accepted
+      * Accepted
   * Ammendment: Remove "they are able"
-    * Accepted
+      * Accepted
   * Ammendment: add "if they are able"
-    * Rejected
-    * The way that they are organised means that sometimes people can't come when they might be able to otherwise
-      * maybe change to that they are able
-    * People who can't come to events are still valuable
-    * This is more about who were are a movement and how we work at our peak performance than how we actually function
-    * The wellbeing thing covers not being able to come
-    * The wording is the most important thing if we add this.
-    * It is a bit wishy washy
-      * Ammendment: change to "that they are able"
-        * Rejected
-          * **Vote:**
-            * For:12, Against:0, Absteintion:2
-    * **Vote:**
-      * For:8, Against:4, Abstention:2
+      * Rejected
+      * The way that they are organised means that sometimes people can't come when they might be able to otherwise
+        * maybe change to that they are able
+      * People who can't come to events are still valuable
+      * This is more about who were are a movement and how we work at our peak performance than how we actually function
+      * The wellbeing thing covers not being able to come
+      * The wording is the most important thing if we add this.
+      * It is a bit wishy washy
+          * Ammendment: change to "that they are able"
+              * Rejected
+                  * **Vote for Ammendment Ammendment:**
+                      * For:12, Against:0, Absteintion:2
+      * **Vote for Amendment:**
+          * For:8, Against:4, Abstention:2
   * Ammendment: year to term
-    * Accepted
-  * **Vote:**
-    * For:14, Against:0, Abstention:1
+      * Accepted
+  * **Vote for Motion:**
+      * For:14, Against:0, Abstention:1
 * Co-option Confusion
   * Seconded
   * No Opposal
 * Campaigns Changes
   * Seconded
   * Amendment 1
-    * Opposed
-    * Campaigns are too specific, political climate is changing all the time
-    * Removes the point of changing the rep to activism
-    * Campaign work has been successful but is often more successful when pushing general involvement in activism.
-    * 2 year role
-    * **Vote**
-      * For:0, Against:13, Abstentions:2
-        * Rejected
-  * **Vote**
-    * For:14, Against:0, Abstentions:1
+      * Opposed
+      * Campaigns are too specific, political climate is changing all the time
+      * Removes the point of changing the rep to activism
+      * Campaign work has been successful but is often more successful when pushing general involvement in activism.
+      * 2 year role
+      * **Vote**
+          * For:0, Against:13, Abstentions:2
+              * Rejected
+  * **Vote for Motion**
+      * For:14, Against:0, Abstentions:1
 * Standing-Down Simplification
   * Seconded
-    * Amendment (get rid of campaign)
-      * Passed
-    * Amendment to have members choose to hold the odd or even laymember to allow someone to stand for 1 year if they want
+  * Amendment (get rid of section on Campaigns)
+      * Accepted
+  * Amendment to have members choose to hold the odd or even laymember to allow someone to stand for 1 year if they want
+      * Rejected
       * Its bad practice to only stand for one year and not have the two year role cycle
       * This allows people to be more comfortable in the length of time they are taking the role on
       * Allow people to do one year as laymember before taking on a 2 year role which can be useful
       * **Vote** (change "this" to "one")
-        * For:12, Against:0, Abstentions:2
+          * For:12, Against:0, Abstentions:2
   * **Vote**
-    * For:15, Against:0, Abstentions:0
+      * For:15, Against:0, Abstentions:0
   * **Things Trimming Travel**
     * Seconded
     * What would an online discussion involve, would it be viable
@@ -153,15 +155,15 @@
     * Things often sitting around chatting, there are better ways to use our time and money and cuts out the chat.
     * Not as tiring as having a long things
     * More accessible financially, generally people have phones or laptops that can be used
-      * Amendment: replace "north" with "north west" and "east" with "north east"
-      * **Vote**
-        * For:13, Against:0, Abstentions:3
+    * Amendment: replace "north" with "north west" and "east" with "north east"
+        * **Vote**
+            * For:13, Against:0, Abstentions:3
     * Winter is harder foe travel, people might want to spend time indoors on dischord meeting
     * People make plans for the summer, making woodcraft top priority is often hard
     * Discord can be used in large groups well, we need to learn how
     * **Action: Izzy Joel and Alexi be in charge of making sure this works**
     * **Action: Joel make a rough guide to discord**
-      * **Vote**
+    * **Vote**
         * For:15, Against:0, Abestentions:0
 
 ### Tom talks about Common Ground
@@ -176,16 +178,16 @@
 * **Shadow Safeguarding**
   * Seconded
   * Amendment added to reduce the term of safeguarding to 1 year to take effect in 2020
-  * Discussion about making shadow safeguarding part of the safeguarding team, not good for training a person
-  * SAFEGUARDING NEED TO GET BETTER ASAP
-  * **Vote**
-    * For:15, Against:0, Abstention:0
+      * Discussion about making shadow safeguarding part of the safeguarding team, not good for training a person
+      * SAFEGUARDING NEED TO GET BETTER ASAP
+      * **Vote**
+          * For:15, Against:0, Abstention:0
 * **Supporting Scotland**
   * Seconded
   * Historically we have had regional reps as the committee structure, replaced by the current system but has left Scotland high and dry
   * "this sounds like a dope idea" Oliver 2019
   * **Vote**
-    * For:16, Against:0, Abstentions:0
+      * For:16, Against:0, Abstentions:0
 * **DF-Camp Downsizing**
   * Seconded
   * Potentially make this common practice in years with international camps and/or venture camp
@@ -200,44 +202,44 @@
 * Here is a list of all of the candidates, the names in **bold** are the people who won those elections
 * Committee Roles
   * Activism
-    1. **Kat**
-    1. Delilah Walbank
+      1. **Kat**
+      1. Delilah Walbank
   * Chair of DF Committee
-    1. **Izzy Stewart**
+      1. **Izzy Stewart**
   * Communications
-    1. **Gus & Iz Costello**
+      1. **Gus & Iz Costello**
   * Outreach
-    1. **Theo James-Lucas**
+      1. **Theo James-Lucas**
   * Events Representative
-    1. **Alex 'No Nips' Smithson Swain**
+      1. **Alex 'No Nips' Smithson Swain**
   * Mest-Up Co-ordinator
-    1. **Katie Lister and Hazel Cawthan**
+      1. **Katie Lister and Hazel Cawthan**
   * Safeguarding Representative
-    1. **Beth Aveyard**
+      1. **Beth Aveyard**
   * Secretary
-    1. **Joe Irving**
+      1. **Joe Irving**
   * Shadow Treasurer
-    1. **Robin Lyster**
+      1. **Robin Lyster**
   * Treasurer
-    1. **Alexi Brailey-Stämpfli**
+      1. **Alexi Brailey-Stämpfli**
   * Laymember
-    1. Theo James-Lucas
-    1. Joe Irving
-    1. **Lucy Kirby**
-    1. **Jacob Maynard-Vesely**
-    1. Niamh Pragnol-Tol
+      1. Theo James-Lucas
+      1. Joe Irving
+      1. **Lucy Kirby**
+      1. **Jacob Maynard-Vesely**
+      1. Niamh Pragnol-Tol
 * Supervisory Roles
   * Accessibility
-    1. **Niamh & Tessa**
+      1. **Niamh & Tessa**
 * Non-Committee Roles
   * Zine
-    1. **Gus & Iz Costello**
+      1. **Gus & Iz Costello**
   * Web Fairy
-    1. **Joe Irving**
+      1. **Joe Irving**
   * First-Aid Fairy
-    1. **Niamh Pragnol Tol**
+      1. **Niamh Pragnol Tol**
   * GC Rep
-    1. **Alexi Brailey-Stämpfli**
+      1. **Alexi Brailey-Stämpfli**
   * Common Ground
-    1. Alexi Brailey-Stämpfli
-    1. **Allison**
+      1. Alexi Brailey-Stämpfli
+      1. **Allison**
