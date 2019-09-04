@@ -2,7 +2,7 @@
 * Attendance: Oliver (Chair of DF Committee), Izzy (Ex-Laymember & GC Rep), Hazel (Training), Niamh, Beth (Ex-Laymember), Alexi (Shadow Treasurer & GC Rep), Lucy, Joel (Secretary), Delilah, Alex (Shadow Events & Venturer Liason), Noah (Mest-Up Coordinator), Gus, Alfie (Comms), Sarah (Fundraising), Robin (Events), Chris (Ex-Affiliations)
   * Number: 16
 ## Musings
-* ### Volunteer Accountant
+* **Volunteer Accountant**
   * External Volunteer
     * There is a basis of this
     * Maybe Internal Bookeeper
@@ -32,7 +32,7 @@
   * The current accounts are a mess
     * we should go through old payments
       * really difficult job
-* ### Web Fairy Weirdness
+* **Web Fairy Weirdness**
   * Moving to Central website
     * Would be better for a DF run thing
     * Central Woodcraft website is a mess and worse than ours
@@ -48,7 +48,7 @@
       * ASK HAZEL ABOUT TRAINING
     * **ACTION: WebFairy & Comms to make + Advertise the WebFairy team and set it up**
     * **ACTION: Joel & Hazel, find old web fairies and ask about training for Website stuff**
-* ### Shift Supply Satchels
+* **Shift Supply Satchels**
   * Make shift kits for on shift people
   * allows for people to be in contact and helps new Coordinator shifts
   * **List:**
@@ -196,3 +196,48 @@
   * Kent is too far, it doesn't need to be so far away
   * Think about what it is that we want from the camp
   * **Action Comms to put a poll online so we can have better representation of districts that aren't here**
+## Elections
+* Here is a list of all of the candidates, the names in **bold** are the people who won those elections
+* Committee Roles
+  * Activism
+    1. **Kat**
+    1. Delilah Walbank
+  * Chair of DF Committee
+    1. **Izzy Stewart**
+  * Communications
+    1. **Gus & Iz Costello**
+  * Outreach
+    1. **Theo James-Lucas**
+  * Events Representative
+    1. **Alex 'No Nips' Smithson Swain**
+  * Mest-Up Co-ordinator
+    1. **Katie Lister and Hazel Cawthan**
+  * Safeguarding Representative
+    1. **Beth Aveyard**
+  * Secretary
+    1. **Joe Irving**
+  * Shadow Treasurer
+    1. **Robin Lyster**
+  * Treasurer
+    1. **Alexi Brailey-Stämpfli**
+  * Laymember
+    1. Theo James-Lucas
+    1. Joe Irving
+    1. **Lucy Kirby**
+    1. **Jacob Maynard-Vesely**
+    1. Niamh Pragnol-Tol
+* Supervisory Roles
+  * Accessibility
+    1. **Niamh & Tessa**
+* Non-Committee Roles
+  * Zine
+    1. **Gus & Iz Costello**
+  * Web Fairy
+    1. **Joe Irving**
+  * First-Aid Fairy
+    1. **Niamh Pragnol Tol**
+  * GC Rep
+    1. **Alexi Brailey-Stämpfli**
+  * Common Ground
+    1. Alexi Brailey-Stämpfli
+    1. **Allison**
