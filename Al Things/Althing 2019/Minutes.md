@@ -83,9 +83,9 @@
         * Kind of redundant to have it centralised
     * **Action Beth: Organise Shift Kits**
 ## Motions
-* Enhancing Exspensing Explanations
+* Enhancing Expensing Explanations
   * Seconded
-  * No Oposal
+  * No Opposition
   * The Motion Passes
 * Omissions of Obligations
   * Seconded
