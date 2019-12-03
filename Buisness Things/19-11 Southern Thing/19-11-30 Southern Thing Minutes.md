@@ -1,18 +1,8 @@
 # Southern Thing
 
 Attendance:
-- Alex SS
-- Gus T
-- Miranda (Maz)
-- Lucy K
-- Jacob MV
-- Tessa RB
-- Izzy S
-- Kat SB
-- Niamh PT
-- Joe I
-- Robin L
-- Delilah W
+
+Alex SS, Gus T, Miranda (Maz), Lucy K, Jacob MV, Tessa RB, Izzy S, Kat SB, Niamh PT, Joe I, Robin L, Delilah W
 
 * Althing motion
   * at GC meeting they are going to make sure that half of people elected are
@@ -22,7 +12,7 @@ Attendance:
   * Writing motion
     * _This Althing believes that gender should be a key focus within the DF Movement This includes representation of DFs Externally. It is also a current focus of the Woodcraft Folk, who want to have equal representation within their trustee board. For this reason, we propose that at any one time, at least 2 of the 4 DF Representatives on General Council will be of a minority gender (female or non-binary) at the time of election. This includes both committee and movement representatives._
     * _Rational: GC has a lot of male member on the board. we feel we should set an example for wider Woodcraft Folk by being equal._
-  * *ACTION*: Joe to find out a way to democratically implement gender equality motion.
+  * **ACTION**: Joe to find out a way to democratically implement gender equality motion.
 * Training
   * Common ground (CG) are running trainings
   * first aid training at:
@@ -52,7 +42,7 @@ Attendance:
     * **ACTION** Joe talk to Friend about t-shirt for charities
   * Delilah can bring screen printing stuff to an event
   * **ACTION** Maz to sort screen printing at her uni after designs have been done
-  * program at SA for making banners for CG. *ACTION* Alex
+  * program at SA for making banners for CG. **ACTION** Alex
   * **ACTION** Niamh banner making at WW
 * Expenses Claim Form:
   * Robin made an expense claim form, which should be used.
